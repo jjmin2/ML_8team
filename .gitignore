@@ -3,4 +3,6 @@ __pycache__/
 *.py[cod]
 .env
 .env.*
-data/
+data/*
+!data/movies.dat
+!data/ratings.dat

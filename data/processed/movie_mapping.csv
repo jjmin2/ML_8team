@@ -1,0 +1,2465 @@
+movielens_id,netflix_id,movielens_title,netflix_title,year
+1,13673,Toy Story,Toy Story,1995
+2,15078,Jumanji,Jumanji,1995
+3,4520,Grumpier Old Men,Grumpier Old Men,1995
+4,8078,Waiting to Exhale,Waiting to Exhale,1995
+7,14602,Sabrina,Sabrina,1995
+8,11593,Tom and Huck,Tom and Huck,1995
+9,9288,Sudden Death,Sudden Death,1995
+10,16552,GoldenEye,GoldenEye,1995
+11,1615,"American President, The",The American President,1995
+12,10645,Dracula: Dead and Loving It,Dracula: Dead and Loving It,1995
+13,14564,Balto,Balto,1995
+14,6616,Nixon,Nixon,1995
+15,10407,Cutthroat Island,Cutthroat Island,1995
+17,15421,Sense and Sensibility,Sense and Sensibility,1995
+18,10809,Four Rooms,Four Rooms,1995
+19,295,Ace Ventura: When Nature Calls,Ace Ventura: When Nature Calls,1995
+20,14118,Money Train,Money Train,1995
+21,7055,Get Shorty,Get Shorty,1995
+22,12633,Copycat,Copycat,1995
+23,14970,Assassins,Assassins,1995
+24,13787,Powder,Powder,1995
+25,15084,Leaving Las Vegas,Leaving Las Vegas,1995
+26,7357,Othello,Othello,1995
+27,11218,Now and Then,Now and Then,1995
+28,1553,Persuasion,Persuasion,1995
+29,7160,"City of Lost Children, The",The City of Lost Children,1995
+31,896,Dangerous Minds,Dangerous Minds,1995
+34,14858,Babe,Babe,1995
+35,10203,Carrington,Carrington,1995
+36,14856,Dead Man Walking,Dead Man Walking,1995
+38,7209,It Takes Two,It Takes Two,1995
+39,17482,Clueless,Clueless,1995
+40,14981,"Cry, the Beloved Country","Cry, the Beloved Country",1995
+41,57,Richard III,Richard III,1995
+42,17614,Dead Presidents,Dead Presidents,1995
+43,5983,Restoration,Restoration,1995
+45,5237,To Die For,To Die For,1995
+46,10988,How to Make an American Quilt,How to Make an American Quilt,1995
+48,3414,Pocahontas,Pocahontas,1995
+50,6974,"Usual Suspects, The",The Usual Suspects,1995
+52,6988,Mighty Aphrodite,Mighty Aphrodite,1995
+53,17042,Lamerica,Lamerica,1994
+54,11193,"Big Green, The",The Big Green,1995
+55,11919,Georgia,Georgia,1995
+57,8037,Home for the Holidays,Home for the Holidays,1995
+60,15444,"Indian in the Cupboard, The",The Indian in the Cupboard,1995
+61,17574,Eye for an Eye,Eye for an Eye,1996
+62,12305,Mr. Holland's Opus,Mr. Holland's Opus,1995
+63,14154,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996
+64,6127,Two if by Sea,Two If by Sea,1996
+65,7324,Bio-Dome,Bio-Dome,1996
+67,10346,Two Bits,Two Bits,1995
+69,9593,Friday,Friday,1995
+70,9298,From Dusk Till Dawn,From Dusk Till Dawn,1996
+71,15698,Fair Game,Fair Game,1995
+74,11005,Bed of Roses,Bed of Roses,1996
+75,16389,Big Bully,Big Bully,1996
+77,8502,Nico Icon,Nico Icon,1995
+78,14188,"Crossing Guard, The",The Crossing Guard,1995
+79,13216,"Juror, The",The Juror,1996
+81,2518,Things to Do in Denver when You're Dead,Things to Do in Denver When You're Dead,1995
+83,1774,Once Upon a Time... When We Were Colored,Once Upon a Time When We Were Colored,1995
+86,833,White Squall,White Squall,1996
+87,11652,Dunston Checks In,Dunston Checks In,1996
+88,15578,Black Sheep,Black Sheep,1996
+89,1543,Nick of Time,Nick of Time,1995
+92,14865,Mary Reilly,Mary Reilly,1996
+93,5005,Vampire in Brooklyn,Vampire in Brooklyn,1995
+94,12591,Beautiful Girls,Beautiful Girls,1996
+95,10123,Broken Arrow,Broken Arrow,1996
+98,9183,Shopping,Shopping,1994
+100,12562,City Hall,City Hall,1996
+101,1700,Bottle Rocket,Bottle Rocket,1996
+102,10925,Mr. Wrong,Mr. Wrong,1996
+103,2285,Unforgettable,Unforgettable,1996
+104,8764,Happy Gilmore,Happy Gilmore,1996
+105,8357,"Bridges of Madison County, The",The Bridges of Madison County,1995
+107,8752,Muppet Treasure Island,Muppet Treasure Island,1996
+109,12825,Headless Body in Topless Bar,Headless Body in Topless Bar,1995
+110,2782,Braveheart,Braveheart,1995
+111,10774,Taxi Driver,Taxi Driver,1976
+112,7718,Rumble in the Bronx,Rumble in the Bronx,1995
+113,17020,Before and After,Before and After,1996
+116,15675,Anne Frank Remembered,Anne Frank Remembered,1995
+118,17047,If Lucy Fell,If Lucy Fell,1996
+119,13781,"Steal Big, Steal Little","Steal Big, Steal Little",1995
+120,1932,Race the Sun,Race the Sun,1996
+121,11963,"Boys of St. Vincent, The",The Boys of St. Vincent,1993
+122,5651,Boomerang,Boomerang,1992
+123,16175,Chungking Express,Chungking Express,1994
+125,10055,Flirting With Disaster,Flirting with Disaster,1996
+130,14929,Angela,Angela,1995
+132,55,Jade,Jade,1995
+135,7762,Down Periscope,Down Periscope,1996
+137,14849,Man of the Year,Man of the Year,1995
+141,16415,"Birdcage, The",The Birdcage,1996
+144,2533,"Brothers McMullen, The",The Brothers McMullen,1995
+145,2186,Bad Boys,Bad Boys,1995
+146,16876,"Amazing Panda Adventure, The",The Amazing Panda Adventure,1995
+147,6219,"Basketball Diaries, The",The Basketball Diaries,1995
+148,7403,"Awfully Big Adventure, An",An Awfully Big Adventure,1995
+149,13676,Amateur,Amateur,1994
+150,7745,Apollo 13,Apollo 13,1995
+151,662,Rob Roy,Rob Roy,1995
+153,14203,Batman Forever,Batman Forever,1995
+154,9351,Belle de jour,Belle de Jour,1967
+156,10965,Blue in the Face,Blue in the Face,1995
+158,1518,Casper,Casper,1995
+159,2302,Clockers,Clockers,1995
+160,77,Congo,Congo,1995
+161,9189,Crimson Tide,Crimson Tide,1995
+162,4881,Crumb,Crumb,1994
+164,5118,Devil in a Blue Dress,Devil in a Blue Dress,1995
+165,14590,Die Hard: With a Vengeance,Die Hard With a Vengeance,1995
+166,8498,"Doom Generation, The",The Doom Generation,1995
+167,5505,Feast of July,Feast of July,1995
+168,550,First Knight,First Knight,1995
+169,17624,Free Willy 2: The Adventure Home,Free Willy 2: The Adventure Home,1995
+170,3680,Hackers,Hackers,1995
+171,7186,Jeffrey,Jeffrey,1995
+172,14137,Johnny Mnemonic,Johnny Mnemonic,1995
+173,4841,Judge Dredd,Judge Dredd,1995
+174,8312,Jury Duty,Jury Duty,1995
+175,4652,Kids,Kids,1995
+176,8469,Living in Oblivion,Living in Oblivion,1995
+177,3043,Lord of Illusions,Lord of Illusions,1995
+179,4888,Mad Love,Mad Love,1995
+180,12071,Mallrats,Mallrats,1995
+181,9996,Mighty Morphin Power Rangers: The Movie,Mighty Morphin Power Rangers: The Movie,1995
+182,10819,Moonlight and Valentino,Moonlight and Valentino,1995
+183,3458,Mute Witness,Mute Witness,1994
+185,8181,"Net, The",The Net,1995
+186,1578,Nine Months,Nine Months,1995
+187,6416,Party Girl,Party Girl,1995
+188,12986,"Prophecy, The",The Prophecy,1995
+190,16041,Safe,Safe,1995
+191,17385,"Scarlet Letter, The",The Scarlet Letter,1995
+192,9998,"Show, The",The Show,1995
+193,9518,Showgirls,Showgirls,1995
+194,12892,Smoke,Smoke,1995
+195,7716,Something to Talk About,Something to Talk About,1995
+196,14889,Species,Species,1995
+198,3379,Strange Days,Strange Days,1995
+201,4953,Three Wishes,Three Wishes,1995
+202,16449,Total Eclipse,Total Eclipse,1995
+203,10044,"To Wong Foo, Thanks for Everything! Julie Newmar","To Wong Foo, Thanks for Everything! Julie Newmar",1995
+204,1971,Under Siege 2: Dark Territory,Under Siege 2: Dark Territory,1995
+205,17650,Unstrung Heroes,Unstrung Heroes,1995
+206,14942,Unzipped,Unzipped,1995
+207,2577,"Walk in the Clouds, A",A Walk in the Clouds,1995
+208,10886,Waterworld,Waterworld,1995
+209,8418,White Man's Burden,White Man's Burden,1995
+210,14910,Wild Bill,Wild Bill,1995
+211,4017,"Browning Version, The",The Browning Version,1994
+212,9663,Bushwhacked,Bushwhacked,1995
+215,7517,Before Sunrise,Before Sunrise,1995
+216,6833,Billy Madison,Billy Madison,1995
+217,10217,"Babysitter, The",The Babysitter,1995
+218,8171,Boys on the Side,Boys on the Side,1995
+219,16470,"Cure, The",The Cure,1995
+222,6158,Circle of Friends,Circle of Friends,1995
+223,788,Clerks,Clerks,1994
+225,1035,Disclosure,Disclosure,1994
+227,5861,Drop Zone,Drop Zone,1994
+229,13328,Death and the Maiden,Death and the Maiden,1994
+230,711,Dolores Claiborne,Dolores Claiborne,1994
+232,900,Eat Drink Man Woman,Eat Drink Man Woman,1994
+233,8938,Exotica,Exotica,1994
+234,3583,Exit to Eden,Exit to Eden,1994
+235,311,Ed Wood,Ed Wood,1994
+236,14391,French Kiss,French Kiss,1995
+237,17338,Forget Paris,Forget Paris,1995
+238,7134,Far From Home: The Adventures of Yellow Dog,Far From Home: The Adventures of Yellow Dog,1995
+239,12307,"Goofy Movie, A",A Goofy Movie,1995
+240,12735,Hideaway,Hideaway,1995
+241,14958,Fluke,Fluke,1995
+243,1845,Gordy,Gordy,1995
+245,7579,"Glass Shield, The",The Glass Shield,1994
+246,2944,Hoop Dreams,Hoop Dreams,1994
+247,9681,Heavenly Creatures,Heavenly Creatures,1994
+249,18,Immortal Beloved,Immortal Beloved,1994
+252,10155,I.Q.,I.Q.,1994
+253,8079,Interview with the Vampire,Interview with the Vampire,1994
+254,15743,Jefferson in Paris,Jefferson in Paris,1995
+256,7899,Junior,Junior,1994
+257,15440,Just Cause,Just Cause,1995
+258,10171,"Kid in King Arthur's Court, A",A Kid in King Arthur's Court,1995
+259,13775,Kiss of Death,Kiss of Death,1995
+260,16265,Star Wars: Episode IV - A New Hope,Star Wars: Episode IV: A New Hope,1977
+261,11446,Little Women,Little Women,1994
+262,152,"Little Princess, A",A Little Princess,1995
+266,6615,Legends of the Fall,Legends of the Fall,1994
+268,11338,Little Odessa,Little Odessa,1994
+270,10861,Love Affair,Love Affair,1994
+271,16913,Losing Isaiah,Losing Isaiah,1995
+272,6486,"Madness of King George, The",The Madness of King George,1994
+273,6120,Mary Shelley's Frankenstein,Mary Shelley's Frankenstein,1994
+274,2388,Man of the House,Man of the House,1995
+275,4543,Mixed Nuts,Mixed Nuts,1994
+276,17113,Milk Money,Milk Money,1994
+277,9092,Miracle on 34th Street,Miracle on 34th Street,1994
+278,4278,Miami Rhapsody,Miami Rhapsody,1995
+279,585,My Family,My Family,1995
+280,8019,Murder in the First,Murder in the First,1995
+281,13813,Nobody's Fool,Nobody's Fool,1994
+282,11789,Nell,Nell,1994
+283,5711,New Jersey Drive,New Jersey Drive,1995
+288,6989,Natural Born Killers,Natural Born Killers,1994
+289,14212,Only You,Only You,1994
+290,8848,Once Were Warriors,Once Were Warriors,1994
+292,11047,Outbreak,Outbreak,1995
+294,8221,"Perez Family, The",The Perez Family,1995
+295,15849,"Pyromaniac's Love Story, A",A Pyromaniac's Love Story,1995
+296,11064,Pulp Fiction,Pulp Fiction,1994
+299,11779,Priest,Priest,1994
+300,11388,Quiz Show,Quiz Show,1994
+303,15200,"Quick and the Dead, The",The Quick and the Dead,1995
+304,14534,Roommates,Roommates,1995
+312,7021,Stuart Saves His Family,Stuart Saves His Family,1995
+313,980,"Swan Princess, The",The Swan Princess,1994
+315,12741,"Specialist, The",The Specialist,1994
+316,3817,Stargate,Stargate,1994
+317,551,"Santa Clause, The",The Santa Clause,1994
+319,11062,Shallow Grave,Shallow Grave,1994
+320,6802,Suture,Suture,1993
+325,9844,National Lampoon's Senior Trip,National Lampoon's Senior Trip,1995
+327,2731,Tank Girl,Tank Girl,1995
+329,12748,Star Trek: Generations,Star Trek: Generations,1994
+330,5417,Tales from the Hood,Tales From the Hood,1995
+331,9256,Tom & Viv,Tom & Viv,1994
+332,16637,Village of the Damned,Village of the Damned,1995
+333,5318,Tommy Boy,Tommy Boy,1995
+334,13419,Vanya on 42nd Street,Vanya on 42nd Street,1994
+335,446,"Underneath, The",The Underneath,1995
+337,13052,What's Eating Gilbert Grape,What's Eating Gilbert Grape,1993
+338,13458,Virtuosity,Virtuosity,1995
+339,4330,While You Were Sleeping,While You Were Sleeping,1995
+340,14505,"War, The",The War,1994
+342,3267,Muriel's Wedding,Muriel's Wedding,1994
+343,10799,"Baby-Sitters Club, The",The Baby Sitters Club,1995
+344,10928,Ace Ventura: Pet Detective,Ace Ventura: Pet Detective,1994
+345,6281,"Adventures of Priscilla, Queen of the Desert, The","The Adventures of Priscilla, Queen of the Desert",1994
+347,14186,Bitter Moon,Bitter Moon,1992
+348,12896,Bullets Over Broadway,Bullets Over Broadway,1994
+349,16128,Clear and Present Danger,Clear and Present Danger,1994
+350,13622,"Client, The",The Client,1994
+351,16713,"Corrina, Corrina","Corrina, Corrina",1994
+352,1234,Crooklyn,Crooklyn,1994
+353,13959,"Crow, The",The Crow,1994
+354,13662,Cobb,Cobb,1994
+355,4127,"Flintstones, The",The Flintstones,1994
+356,11283,Forrest Gump,Forrest Gump,1994
+357,2000,Four Weddings and a Funeral,Four Weddings and a Funeral,1994
+358,9355,Higher Learning,Higher Learning,1995
+359,11734,I Like It Like That,I Like It Like That,1994
+360,12261,I Love Trouble,I Love Trouble,1994
+361,6243,It Could Happen to You,It Could Happen to You,1994
+362,17158,"Jungle Book, The",The Jungle Book,1994
+366,15171,Wes Craven's New Nightmare,Wes Craven's New Nightmare,1994
+368,16825,Maverick,Maverick,1994
+370,5621,Naked Gun 33 1/3: The Final Insult,Naked Gun 33 1/3: The Final Insult,1994
+371,11724,"Paper, The",The Paper,1994
+372,4778,Reality Bites,Reality Bites,1994
+374,2908,Richie Rich,Richie Rich,1994
+375,10697,Safe Passage,Safe Passage,1994
+376,7395,"River Wild, The",The River Wild,1994
+377,607,Speed,Speed,1994
+378,1229,Speechless,Speechless,1994
+379,4612,Timecop,Timecop,1994
+380,13391,True Lies,True Lies,1994
+381,16891,When a Man Loves a Woman,When a Man Loves a Woman,1994
+382,1336,Wolf,Wolf,1994
+384,9516,Bad Company,Bad Company,1995
+387,11065,"Low Down Dirty Shame, A",A Low Down Dirty Shame,1994
+391,10125,Jason's Lyric,Jason's Lyric,1994
+393,11687,Street Fighter,Street Fighter,1994
+396,11343,Fall Time,Fall Time,1995
+397,11609,"Fear, The",The Fear,1995
+398,8265,Frank and Ollie,Frank and Ollie,1995
+407,12181,In the Mouth of Madness,In the Mouth of Madness,1995
+408,15125,8 Seconds,8 Seconds,1994
+409,10101,Above the Rim,Above the Rim,1994
+410,6068,Addams Family Values,Addams Family Values,1993
+412,12188,"Age of Innocence, The",The Age of Innocence,1993
+413,9900,Airheads,Airheads,1994
+415,11679,Another Stakeout,Another Stakeout,1993
+416,15576,Bad Girls,Bad Girls,1994
+417,7659,Barcelona,Barcelona,1994
+419,16046,"Beverly Hillbillies, The",The Beverly Hillbillies,1993
+420,1843,Beverly Hills Cop III,Beverly Hills Cop III,1994
+421,13702,Black Beauty,Black Beauty,1994
+422,5135,Blink,Blink,1994
+423,12077,Blown Away,Blown Away,1994
+424,1051,Blue Chips,Blue Chips,1994
+426,6239,Body Snatchers,Body Snatchers,1993
+427,17241,Boxing Helena,Boxing Helena,1993
+428,6642,"Bronx Tale, A",A Bronx Tale,1993
+429,15759,Cabin Boy,Cabin Boy,1994
+431,10424,Carlito's Way,Carlito's Way,1993
+432,5255,City Slickers II: The Legend of Curly's Gold,City Slickers II: The Legend of Curly's Gold,1994
+433,4913,Clean Slate,Clean Slate,1994
+434,12160,Cliffhanger,Cliffhanger,1993
+435,17565,Coneheads,Coneheads,1993
+436,6923,Color of Night,Color of Night,1994
+438,10503,"Cowboy Way, The",The Cowboy Way,1994
+439,16921,Dangerous Game,Dangerous Game,1993
+440,16075,Dave,Dave,1993
+441,15209,Dazed and Confused,Dazed and Confused,1993
+442,16181,Demolition Man,Demolition Man,1993
+444,17054,Even Cowgirls Get the Blues,Even Cowgirls Get the Blues,1993
+445,11158,Fatal Instinct,Fatal Instinct,1993
+446,4496,Farewell My Concubine,Farewell My Concubine,1993
+447,999,"Favor, The",The Favor,1994
+448,5140,Fearless,Fearless,1993
+450,9116,With Honors,With Honors,1994
+451,10100,Flesh and Bone,Flesh and Bone,1993
+452,743,Widows' Peak,Widows' Peak,1994
+453,11881,For Love or Money,For Love or Money,1993
+454,15156,"Firm, The",The Firm,1993
+455,2153,Free Willy,Free Willy,1993
+456,16705,Fresh,Fresh,1994
+457,16384,"Fugitive, The",The Fugitive,1993
+458,1450,Geronimo: An American Legend,Geronimo: An American Legend,1993
+459,8239,"Getaway, The",The Getaway,1994
+460,5000,Getting Even with Dad,Getting Even with Dad,1994
+461,1426,Go Fish,Go Fish,1994
+463,12618,Guilty as Sin,Guilty as Sin,1993
+464,5894,Hard Target,Hard Target,1993
+465,3190,Heaven & Earth,Heaven & Earth,1993
+466,15473,Hot Shots! Part Deux,Hot Shots! Part Deux,1993
+467,12653,Live Nude Girls,Live Nude Girls,1995
+468,7180,"Englishman Who Went Up a Hill, But Came Down a Mountain, The",The Englishman Who Went Up a Hill but Came Down a Mountain,1995
+470,5106,House Party 3,House Party 3,1994
+471,8370,"Hudsucker Proxy, The",The Hudsucker Proxy,1994
+472,7338,I'll Do Anything,I'll Do Anything,1994
+473,17104,In the Army Now,In the Army Now,1994
+474,11888,In the Line of Fire,In the Line of Fire,1993
+475,7600,In the Name of the Father,In the Name of the Father,1993
+476,5336,"Inkwell, The",The Inkwell,1994
+477,14457,What's Love Got to Do with It?,What's Love Got to Do with It,1993
+479,5305,Judgment Night,Judgment Night,1993
+480,14312,Jurassic Park,Jurassic Park,1993
+481,17179,Kalifornia,Kalifornia,1993
+482,14010,Killing Zoe,Killing Zoe,1994
+484,15710,Lassie,Lassie,1994
+485,13248,Last Action Hero,Last Action Hero,1993
+486,9262,Life with Mikey,Life with Mikey,1993
+487,14284,Lightning Jack,Lightning Jack,1994
+489,14653,Made in America,Made in America,1993
+490,13091,Malice,Malice,1993
+491,3478,"Man Without a Face, The",The Man Without a Face,1993
+492,4904,Manhattan Murder Mystery,Manhattan Murder Mystery,1993
+493,8046,Menace II Society,Menace II Society,1993
+494,8669,Executive Decision,Executive Decision,1996
+497,13511,Much Ado About Nothing,Much Ado About Nothing,1993
+498,13626,Mr. Jones,Mr. Jones,1993
+499,8709,Mr. Wonderful,Mr. Wonderful,1993
+500,7397,Mrs. Doubtfire,Mrs. Doubtfire,1993
+501,1136,Naked,Naked,1993
+504,10209,No Escape,No Escape,1994
+507,13409,"Perfect World, A",A Perfect World,1993
+508,17154,Philadelphia,Philadelphia,1993
+509,1367,"Piano, The",The Piano,1993
+510,12228,Poetic Justice,Poetic Justice,1993
+511,1373,"Program, The",The Program,1993
+513,552,Radioland Murders,Radioland Murders,1994
+514,10702,"Ref, The",The Ref,1994
+515,10446,"Remains of the Day, The",The Remains of the Day,1993
+516,16307,Renaissance Man,Renaissance Man,1994
+517,1027,Rising Sun,Rising Sun,1993
+518,3086,"Road to Wellville, The",The Road to Wellville,1994
+519,1105,Robocop 3,RoboCop 3,1993
+522,6618,Romper Stomper,Romper Stomper,1992
+524,2128,Rudy,Rudy,1993
+527,12870,Schindler's List,Schindler's List,1993
+528,4601,"Scout, The",The Scout,1994
+529,10461,Searching for Bobby Fischer,Searching for Bobby Fischer,1993
+531,2212,"Secret Garden, The",The Secret Garden,1993
+533,993,"Shadow, The",The Shadow,1994
+534,8773,Shadowlands,Shadowlands,1993
+535,15055,Short Cuts,Short Cuts,1993
+536,5139,"Simple Twist of Fate, A",A Simple Twist of Fate,1994
+537,1866,Sirens,Sirens,1994
+538,2161,Six Degrees of Separation,Six Degrees of Separation,1993
+539,1542,Sleepless in Seattle,Sleepless in Seattle,1993
+541,14869,Blade Runner,Blade Runner,1982
+542,5033,Son in Law,Son in Law,1993
+543,3728,So I Married an Axe Murderer,So I Married an Axe Murderer,1993
+544,13244,Striking Distance,Striking Distance,1993
+546,12349,Super Mario Bros.,Super Mario Bros.,1993
+547,12274,Surviving the Game,Surviving the Game,1994
+548,13824,Terminal Velocity,Terminal Velocity,1994
+550,1245,Threesome,Threesome,1994
+551,10828,"Nightmare Before Christmas, The",The Nightmare Before Christmas,1993
+553,16872,Tombstone,Tombstone,1993
+554,10234,Trial by Jury,Trial by Jury,1994
+555,4805,True Romance,True Romance,1993
+556,4478,"War Room, The",The War Room,1993
+557,4965,Mamma Roma,Mamma Roma,1962
+558,942,"Pagemaster, The",The Pagemaster,1994
+564,14733,Chasers,Chasers,1994
+566,5643,Naked in New York,Naked in New York,1994
+569,14065,Little Big League,Little Big League,1994
+571,8486,"Wedding Gift, The",The Wedding Gift,1994
+577,16755,Andre,Andre,1994
+580,386,Princess Caraboo,Princess Caraboo,1994
+581,11590,"Celluloid Closet, The",The Celluloid Closet,1995
+585,1666,"Brady Bunch Movie, The",The Brady Bunch Movie,1995
+586,12546,Home Alone,Home Alone,1990
+587,3106,Ghost,Ghost,1990
+592,14670,Batman,Batman,1989
+593,2862,"Silence of the Lambs, The",The Silence of the Lambs,1991
+596,4791,Pinocchio,Pinocchio,1940
+597,6287,Pretty Woman,Pretty Woman,1990
+600,11597,Love and a .45,Love and a .45,1994
+603,15685,"Bye Bye, Love",Bye Bye Love,1995
+605,14734,One Fine Day,One Fine Day,1996
+610,15893,Heavy Metal,Heavy Metal,1981
+612,5170,"Pallbearer, The",The Pallbearer,1996
+613,13219,Jane Eyre,Jane Eyre,1996
+614,5613,Loaded,Loaded,1994
+616,13251,"Aristocats, The",The Aristocats,1970
+618,3372,Two Much,Two Much,1996
+619,11528,Ed,Ed,1996
+621,5278,My Favorite Season,My Favorite Season,1993
+628,12052,Primal Fear,Primal Fear,1996
+630,5811,Carried Away,Carried Away,1996
+631,15616,All Dogs Go to Heaven 2,All Dogs Go to Heaven 2,1996
+634,7758,Theodore Rex,Theodore Rex,1995
+637,11384,Sgt. Bilko,Sgt. Bilko,1996
+638,3613,Jack and Sarah,Jack and Sarah,1995
+640,15286,Diabolique,Diabolique,1996
+647,15531,Courage Under Fire,Courage Under Fire,1996
+648,5054,Mission: Impossible,Mission: Impossible,1996
+652,4154,"301, 302",301/302,1995
+653,58,Dragonheart,Dragonheart,1996
+656,8243,Eddie,Eddie,1996
+659,12703,Purple Noon,Purple Noon,1960
+661,11829,James and the Giant Peach,James and the Giant Peach,1996
+662,16606,Fear,Fear,1996
+663,5612,Kids in the Hall: Brain Candy,Kids in the Hall: Brain Candy,1996
+664,12908,Faithful,Faithful,1996
+665,13522,Underground,Underground,1995
+668,11760,Pather Panchali,Pather Panchali,1955
+673,15945,Space Jam,Space Jam,1996
+674,3093,Barbarella,Barbarella,1968
+678,17716,Some Folks Call It a Sling Blade,Some Folks Call it a Sling Blade,1993
+680,14293,Alphaville,Alphaville,1965
+687,12533,Country Life,Country Life,1994
+688,17693,Operation Dumbo Drop,Operation Dumbo Drop,1995
+691,6016,Mrs. Winterbourne,Mrs. Winterbourne,1996
+692,7354,Solo,Solo,1996
+695,17058,True Crime,True Crime,1995
+696,513,Butterfly Kiss,Butterfly Kiss,1995
+697,5647,Feeling Minnesota,Feeling Minnesota,1996
+702,9423,Faces,Faces,1968
+703,16187,Boys,Boys,1996
+704,693,"Quest, The",The Quest,1996
+705,15624,Cosi,Cosi,1996
+706,9065,Sunset Park,Sunset Park,1996
+707,6973,Mulholland Falls,Mulholland Falls,1996
+708,8826,"Truth About Cats & Dogs, The",The Truth About Cats & Dogs,1996
+709,12002,Oliver & Company,Oliver & Company,1988
+710,14795,Celtic Pride,Celtic Pride,1996
+711,4285,Flipper,Flipper,1996
+712,4440,Captives,Captives,1994
+714,15657,Dead Man,Dead Man,1995
+716,12845,Switchblade Sisters,Switchblade Sisters,1975
+719,17625,Multiplicity,Multiplicity,1996
+724,6708,"Craft, The",The Craft,1996
+725,16300,"Great White Hype, The",The Great White Hype,1996
+726,5602,Last Dance,Last Dance,1996
+728,8320,Cold Comfort Farm,Cold Comfort Farm,1995
+731,10952,Heaven's Prisoners,Heaven's Prisoners,1996
+732,11257,Original Gangstas,Original Gangstas,1996
+733,12317,"Rock, The",The Rock,1996
+736,12470,Twister,Twister,1996
+737,7142,Barb Wire,Barb Wire,1996
+742,12833,Thinner,Thinner,1996
+743,8215,Spy Hard,Spy Hard,1996
+747,15094,"Stupids, The",The Stupids,1996
+753,11576,"Month by the Lake, A",A Month by the Lake,1995
+755,6079,Kim,Kim,1950
+756,3635,Carmen Miranda: Bananas Is My Business,Carmen Miranda: Bananas Is My Business,1994
+757,16104,Ashes of Time,Ashes of Time,1994
+760,7501,Stalingrad,Stalingrad,1993
+761,16388,"Phantom, The",The Phantom,1996
+762,9389,Striptease,Striptease,1996
+764,9955,Heavy,Heavy,1995
+765,305,Jack,Jack,1996
+779,1606,'Til There Was You,Til There Was You,1997
+781,8189,Stealing Beauty,Stealing Beauty,1996
+782,12191,"Fan, The",The Fan,1996
+783,5607,"Hunchback of Notre Dame, The",The Hunchback of Notre Dame,1996
+784,6978,"Cable Guy, The",The Cable Guy,1996
+785,16997,Kingpin,Kingpin,1996
+786,8467,Eraser,Eraser,1996
+788,5628,"Nutty Professor, The",The Nutty Professor,1996
+798,14513,Daylight,Daylight,1996
+799,6666,"Frighteners, The",The Frighteners,1996
+800,14342,Lone Star,Lone Star,1996
+801,9679,Harriet the Spy,Harriet the Spy,1996
+802,7399,Phenomenon,Phenomenon,1996
+803,4201,Walking and Talking,Walking and Talking,1996
+804,17147,She's the One,She's the One,1996
+805,8840,"Time to Kill, A",A Time to Kill,1996
+806,7022,American Buffalo,American Buffalo,1996
+808,2243,Alaska,Alaska,1996
+809,12459,Fled,Fled,1996
+810,9441,Kazaam,Kazaam,1996
+813,2407,Larger Than Life,Larger Than Life,1996
+818,4923,"Very Brady Sequel, A",A Very Brady Sequel,1996
+828,6997,"Adventures of Pinocchio, The",The Adventures of Pinocchio,1996
+829,13925,Joe's Apartment,Joe's Apartment,1996
+830,13748,"First Wives Club, The",The First Wives Club,1996
+831,7205,Stonewall,Stonewall,1995
+832,15472,Ransom,Ransom,1996
+833,17079,High School High,High School High,1996
+834,13867,Phat Beach,Phat Beach,1996
+835,9985,Foxfire,Foxfire,1996
+836,3326,Chain Reaction,Chain Reaction,1996
+838,16992,Emma,Emma,1996
+839,9396,"Crow: City of Angels, The",The Crow: City of Angels,1996
+840,4630,House Arrest,House Arrest,1996
+849,11192,Escape from L.A.,Escape from L.A.,1996
+850,16355,Cyclo,Cyclo,1995
+851,459,Basquiat,Basquiat,1996
+852,14480,Tin Cup,Tin Cup,1996
+858,12293,"Godfather, The",The Godfather,1972
+861,16791,Supercop,Supercop,1992
+862,3912,Manny & Lo,Manny & Lo,1996
+866,4271,Bound,Bound,1996
+867,2656,Carpool,Carpool,1996
+869,13868,Kansas City,Kansas City,1996
+870,13440,Gone Fishin',Gone Fishin',1997
+879,10214,"Relic, The",The Relic,1997
+881,1765,First Kid,First Kid,1996
+882,16667,"Trigger Effect, The",The Trigger Effect,1996
+885,11137,Bogus,Bogus,1996
+886,6073,Bulletproof,Bulletproof,1996
+887,10731,Talk of Angels,Talk of Angels,1998
+892,15826,Twelfth Night,Twelfth Night,1996
+893,15667,Mother Night,Mother Night,1996
+896,15640,Wild Reeds,Wild Reeds,1994
+897,5639,For Whom the Bell Tolls,For Whom the Bell Tolls,1943
+898,10620,"Philadelphia Story, The",The Philadelphia Story,1940
+899,2360,Singin' in the Rain,Singin' in the Rain,1952
+900,12639,"American in Paris, An",An American in Paris,1951
+901,171,Funny Face,Funny Face,1957
+902,4506,Breakfast at Tiffany's,Breakfast at Tiffany's,1961
+903,16223,Vertigo,Vertigo,1958
+904,6739,Rear Window,Rear Window,1954
+905,11378,It Happened One Night,It Happened One Night,1934
+908,241,North by Northwest,North by Northwest,1959
+909,8677,"Apartment, The",The Apartment,1960
+910,17526,Some Like It Hot,Some Like It Hot,1959
+911,1395,Charade,Charade,1963
+913,3315,"Maltese Falcon, The",The Maltese Falcon,1941
+915,11882,Sabrina,Sabrina,1954
+916,5050,Roman Holiday,Roman Holiday,1953
+917,3369,"Little Princess, The",The Little Princess,1939
+918,10254,Meet Me in St. Louis,Meet Me in St. Louis,1944
+921,2954,My Favorite Year,My Favorite Year,1982
+923,8832,Citizen Kane,Citizen Kane,1941
+924,11165,2001: A Space Odyssey,2001: A Space Odyssey,1968
+926,10372,All About Eve,All About Eve,1950
+927,1547,"Women, The",The Women,1939
+928,7642,Rebecca,Rebecca,1940
+929,13149,Foreign Correspondent,Foreign Correspondent,1940
+930,3742,Notorious,Notorious,1946
+931,11754,Spellbound,Spellbound,1945
+932,10255,"Affair to Remember, An",An Affair to Remember,1957
+933,2371,To Catch a Thief,To Catch a Thief,1955
+934,14968,Father of the Bride,Father of the Bride,1950
+935,12250,"Band Wagon, The",The Band Wagon,1953
+936,161,Ninotchka,Ninotchka,1939
+937,961,Love in the Afternoon,Love in the Afternoon,1957
+938,13270,Gigi,Gigi,1958
+940,16840,"Adventures of Robin Hood, The",The Adventures of Robin Hood,1938
+941,8143,"Mark of Zorro, The",The Mark of Zorro,1940
+942,15802,Laura,Laura,1944
+943,1224,"Ghost and Mrs. Muir, The",The Ghost and Mrs. Muir,1947
+944,10360,Lost Horizon,Lost Horizon,1937
+945,6292,Top Hat,Top Hat,1935
+946,15359,To Be or Not to Be,To Be or Not To Be,1942
+947,2408,My Man Godfrey,My Man Godfrey,1936
+948,2379,Giant,Giant,1956
+950,8382,"Thin Man, The",The Thin Man,1934
+951,13378,His Girl Friday,His Girl Friday,1940
+953,13073,It's a Wonderful Life,It's a Wonderful Life,1946
+954,15129,Mr. Smith Goes to Washington,Mr. Smith Goes to Washington,1939
+955,3226,Bringing Up Baby,Bringing Up Baby,1938
+956,15264,Penny Serenade,Penny Serenade,1941
+958,10416,Lady of Burlesque,Lady of Burlesque,1943
+959,15649,Of Human Bondage,Of Human Bondage,1934
+960,5773,Angel on My Shoulder,Angel on My Shoulder,1946
+963,3494,"Inspector General, The",The Inspector General,1949
+964,1749,Angel and the Badman,Angel and the Badman,1947
+965,17756,"39 Steps, The",The 39 Steps,1935
+966,5574,"Walk in the Sun, A",A Walk in the Sun,1945
+967,10110,"Outlaw, The",The Outlaw,1943
+968,9940,Night of the Living Dead,Night of the Living Dead,1968
+970,1662,Beat the Devil,Beat the Devil,1954
+972,11795,"Last Time I Saw Paris, The",The Last Time I Saw Paris,1954
+973,990,Meet John Doe,Meet John Doe,1941
+976,1556,"Farewell to Arms, A",A Farewell to Arms,1932
+981,3101,Dangerous Ground,Dangerous Ground,1997
+982,10458,Picnic,Picnic,1955
+986,2167,Fly Away Home,Fly Away Home,1996
+987,2100,Bliss,Bliss,1997
+988,4503,Grace of My Heart,Grace of My Heart,1996
+990,15962,Maximum Risk,Maximum Risk,1996
+991,445,Michael Collins,Michael Collins,1996
+992,6582,"Rich Man's Wife, The",The Rich Man's Wife,1996
+993,4019,Infinity,Infinity,1996
+994,7589,Big Night,Big Night,1996
+997,8794,Caught,Caught,1996
+998,5016,Set It Off,Set It Off,1996
+999,13459,2 Days in the Valley,2 Days in the Valley,1996
+1000,6864,Curdled,Curdled,1996
+1003,2177,Extreme Measures,Extreme Measures,1996
+1004,5367,"Glimmer Man, The",The Glimmer Man,1996
+1005,11863,D3: The Mighty Ducks,D3: The Mighty Ducks,1996
+1006,14146,"Chamber, The",The Chamber,1996
+1007,9089,"Apple Dumpling Gang, The",The Apple Dumpling Gang,1975
+1009,10736,Escape to Witch Mountain,Escape to Witch Mountain,1975
+1011,262,Herbie Rides Again,Herbie Rides Again,1974
+1013,16596,"Parent Trap, The",The Parent Trap,1961
+1014,3960,Pollyanna,Pollyanna,1960
+1015,9757,Homeward Bound: The Incredible Journey,Homeward Bound: The Incredible Journey,1993
+1017,10612,Swiss Family Robinson,Swiss Family Robinson,1960
+1018,1801,That Darn Cat!,That Darn Cat,1965
+1019,11114,"20,000 Leagues Under the Sea","20,000 Leagues Under the Sea",1954
+1020,9635,Cool Runnings,Cool Runnings,1993
+1021,5056,Angels in the Outfield,Angels in the Outfield,1994
+1025,9120,"Sword in the Stone, The",The Sword in the Stone,1963
+1027,658,Robin Hood: Prince of Thieves,Robin Hood: Prince of Thieves,1991
+1028,14185,Mary Poppins,Mary Poppins,1964
+1029,17321,Dumbo,Dumbo,1941
+1030,3551,Pete's Dragon,Pete's Dragon,1977
+1031,5151,Bedknobs and Broomsticks,Bedknobs and Broomsticks,1971
+1032,13629,Alice in Wonderland,Alice in Wonderland,1951
+1033,15429,"Fox and the Hound, The",The Fox and the Hound,1981
+1034,6632,Freeway,Freeway,1996
+1035,12074,"Sound of Music, The",The Sound of Music,1965
+1036,9960,Die Hard,Die Hard,1988
+1037,811,"Lawnmower Man, The",The Lawnmower Man,1992
+1038,235,Unhook the Stars,Unhook the Stars,1996
+1040,3695,"Secret Agent, The",The Secret Agent,1996
+1041,5671,Secrets & Lies,Secrets & Lies,1996
+1042,6661,That Thing You Do!,That Thing You Do!,1996
+1043,1140,To Gillian on Her 37th Birthday,To Gillian on her 37th Birthday,1996
+1045,16023,Love Is All There Is,Love Is All There Is,1996
+1046,3542,Beautiful Thing,Beautiful Thing,1996
+1047,14403,"Long Kiss Goodnight, The",The Long Kiss Goodnight,1996
+1049,2174,"Ghost and the Darkness, The",The Ghost and the Darkness,1996
+1051,2512,Trees Lounge,Trees Lounge,1996
+1053,2951,Normal Life,Normal Life,1996
+1054,8162,Get on the Bus,Get on the Bus,1996
+1057,7404,Everyone Says I Love You,Everyone Says I Love You,1996
+1060,13439,Swingers,Swingers,1996
+1061,5430,Sleepers,Sleepers,1996
+1063,12273,Johns,Johns,1996
+1064,11525,Aladdin and the King of Thieves,Aladdin and the King of Thieves,1996
+1066,10179,Shall We Dance?,Shall We Dance,1937
+1068,17623,Crossfire,Crossfire,1947
+1069,9106,"Murder, My Sweet","Murder, My Sweet",1944
+1076,16785,"Innocents, The",The Innocents,1961
+1077,13542,Sleeper,Sleeper,1973
+1078,3331,Bananas,Bananas,1971
+1079,13580,"Fish Called Wanda, A",A Fish Called Wanda,1988
+1080,5538,Monty Python's Life of Brian,Monty Python's Life of Brian,1979
+1081,7112,Victor/Victoria,Victor / Victoria,1982
+1082,9310,"Candidate, The",The Candidate,1972
+1083,104,"Great Race, The",The Great Race,1965
+1084,5287,Bonnie and Clyde,Bonnie and Clyde,1967
+1085,8605,"Old Man and the Sea, The",The Old Man and the Sea,1958
+1086,4284,Dial M for Murder,Dial M for Murder,1954
+1087,15402,Madame Butterfly,Madame Butterfly,1995
+1088,7617,Dirty Dancing,Dirty Dancing,1987
+1089,175,Reservoir Dogs,Reservoir Dogs,1992
+1090,9426,Platoon,Platoon,1986
+1091,10176,Weekend at Bernie's,Weekend at Bernie's,1989
+1092,13705,Basic Instinct,Basic Instinct,1992
+1093,7208,"Doors, The",The Doors,1991
+1095,14855,Glengarry Glen Ross,Glengarry Glen Ross,1992
+1096,11051,Sophie's Choice,Sophie's Choice,1982
+1100,16901,Days of Thunder,Days of Thunder,1990
+1101,7624,Top Gun,Top Gun,1986
+1102,5038,American Strays,American Strays,1996
+1104,963,"Streetcar Named Desire, A",A Streetcar Named Desire,1951
+1112,7177,Palookaville,Palookaville,1996
+1113,16461,"Associate, The",The Associate,1996
+1119,9551,Drunks,Drunks,1997
+1120,3893,"People vs. Larry Flynt, The",The People vs. Larry Flynt,1996
+1121,6530,Glory Daze,Glory Daze,1996
+1123,770,"Perfect Candidate, A",A Perfect Candidate,1996
+1124,2209,On Golden Pond,On Golden Pond,1981
+1126,533,Drop Dead Fred,Drop Dead Fred,1991
+1127,12675,"Abyss, The",The Abyss,1989
+1128,11969,"Fog, The",The Fog,1980
+1129,5084,Escape from New York,Escape from New York,1981
+1130,12446,"Howling, The",The Howling,1980
+1135,9003,Private Benjamin,Private Benjamin,1980
+1139,10054,Everything Relative,Everything Relative,1996
+1147,13413,When We Were Kings,When We Were Kings,1996
+1152,4722,He Walked by Night,He Walked by Night,1948
+1162,4328,"Ruling Class, The",The Ruling Class,1972
+1167,9222,Dear God,Dear God,1996
+1168,10960,Bad Moon,Bad Moon,1996
+1178,9042,Paths of Glory,Paths of Glory,1957
+1179,3265,"Grifters, The",The Grifters,1990
+1183,3148,"English Patient, The",The English Patient,1996
+1186,15424,"Sex, Lies, and Videotape","sex, lies, and videotape",1989
+1187,1401,Passion Fish,Passion Fish,1992
+1188,8753,Strictly Ballroom,Strictly Ballroom,1992
+1189,16841,"Thin Blue Line, The",The Thin Blue Line,1988
+1190,8736,Tie Me Up! Tie Me Down!,Tie Me Up! Tie Me Down!,1990
+1191,9062,Madonna: Truth or Dare,Madonna: Truth or Dare,1991
+1192,14681,Paris Is Burning,Paris Is Burning,1990
+1193,8327,One Flew Over the Cuckoo's Nest,One Flew Over the Cuckoo's Nest,1975
+1196,5582,Star Wars: Episode V - The Empire Strikes Back,Star Wars: Episode V: The Empire Strikes Back,1980
+1197,7193,"Princess Bride, The",The Princess Bride,1987
+1198,10042,Raiders of the Lost Ark,Raiders of the Lost Ark,1981
+1199,11242,Brazil,Brazil,1985
+1201,8806,"Good, The Bad and The Ugly, The","The Good, the Bad and the Ugly",1966
+1202,16856,Withnail and I,Withnail and I,1987
+1203,9528,12 Angry Men,12 Angry Men,1957
+1204,6445,Lawrence of Arabia,Lawrence of Arabia,1962
+1206,10451,"Clockwork Orange, A",A Clockwork Orange,1971
+1207,6428,To Kill a Mockingbird,To Kill a Mockingbird,1962
+1208,6099,Apocalypse Now,Apocalypse Now,1979
+1210,9628,Star Wars: Episode VI - Return of the Jedi,Star Wars: Episode VI: Return of the Jedi,1983
+1212,1595,"Third Man, The",The Third Man,1949
+1215,4392,Army of Darkness,Army of Darkness,1993
+1217,10729,Ran,Ran,1985
+1219,10832,Psycho,Psycho,1960
+1221,3290,"Godfather: Part II, The","The Godfather, Part II",1974
+1222,17339,Full Metal Jacket,Full Metal Jacket,1987
+1224,7773,Henry V,Henry V,1989
+1225,15758,Amadeus,Amadeus,1984
+1226,3954,"Quiet Man, The",The Quiet Man,1952
+1227,14862,Once Upon a Time in America,Once Upon a Time in America,1984
+1228,13856,Raging Bull,Raging Bull,1980
+1230,8159,Annie Hall,Annie Hall,1977
+1231,5360,"Right Stuff, The",The Right Stuff,1983
+1234,3798,"Sting, The",The Sting,1973
+1235,14601,Harold and Maude,Harold and Maude,1971
+1238,4069,Local Hero,Local Hero,1983
+1240,6196,"Terminator, The",The Terminator,1984
+1242,4847,Glory,Glory,1989
+1243,13023,Rosencrantz and Guildenstern Are Dead,Rosencrantz and Guildenstern Are Dead,1990
+1244,9598,Manhattan,Manhattan,1979
+1245,11427,Miller's Crossing,Miller's Crossing,1990
+1246,14928,Dead Poets Society,Dead Poets Society,1989
+1247,15922,"Graduate, The",The Graduate,1967
+1248,13107,Touch of Evil,Touch of Evil,1958
+1250,7586,"Bridge on the River Kwai, The",The Bridge on the River Kwai,1957
+1251,6807,8 1/2,8 1/2,1963
+1252,13082,Chinatown,Chinatown,1974
+1253,15037,"Day the Earth Stood Still, The",The Day the Earth Stood Still,1951
+1254,17412,"Treasure of the Sierra Madre, The",The Treasure of the Sierra Madre,1948
+1256,9690,Duck Soup,Duck Soup,1933
+1257,1255,Better Off Dead...,Better Off Dead,1985
+1258,12034,"Shining, The",The Shining,1980
+1259,7233,Stand by Me,Stand by Me,1986
+1260,6085,M,M,1931
+1262,11573,"Great Escape, The",The Great Escape,1963
+1263,199,"Deer Hunter, The",The Deer Hunter,1978
+1264,7379,Diva,Diva,1981
+1265,10225,Groundhog Day,Groundhog Day,1993
+1266,16604,Unforgiven,Unforgiven,1992
+1267,5601,"Manchurian Candidate, The",The Manchurian Candidate,1962
+1268,7841,Pump Up the Volume,Pump Up the Volume,1990
+1269,15807,Arsenic and Old Lace,Arsenic and Old Lace,1944
+1270,10820,Back to the Future,Back to the Future,1985
+1271,1144,Fried Green Tomatoes,Fried Green Tomatoes,1991
+1272,6117,Patton,Patton,1970
+1273,9733,Down by Law,Down by Law,1986
+1274,10662,Akira,Akira,1988
+1275,16698,Highlander,Highlander,1986
+1276,5561,Cool Hand Luke,Cool Hand Luke,1967
+1277,9833,Cyrano de Bergerac,Cyrano de Bergerac,1990
+1281,8666,"Great Dictator, The",The Great Dictator,1940
+1282,16052,Fantasia,Fantasia,1940
+1283,14642,High Noon,High Noon,1952
+1284,7424,"Big Sleep, The",The Big Sleep,1946
+1285,2922,Heathers,Heathers,1989
+1286,13398,Somewhere in Time,Somewhere in Time,1980
+1288,2465,This Is Spinal Tap,This Is Spinal Tap,1984
+1290,6190,Some Kind of Wonderful,Some Kind of Wonderful,1987
+1291,16954,Indiana Jones and the Last Crusade,Indiana Jones and the Last Crusade,1989
+1292,10808,Being There,Being There,1979
+1293,4633,Gandhi,Gandhi,1982
+1297,7483,Real Genius,Real Genius,1985
+1298,8117,Pink Floyd - The Wall,Pink Floyd: The Wall,1982
+1299,15662,"Killing Fields, The",The Killing Fields,1984
+1302,14667,Field of Dreams,Field of Dreams,1989
+1303,14825,"Man Who Would Be King, The",The Man Who Would Be King,1975
+1304,14280,Butch Cassidy and the Sundance Kid,Butch Cassidy and the Sundance Kid,1969
+1305,14327,"Paris, Texas","Paris, Texas",1984
+1307,2660,When Harry Met Sally...,When Harry Met Sally,1989
+1309,16331,Parallel Sons,Parallel Sons,1995
+1310,15617,Hype!,Hype,1996
+1313,13987,Mad Dog Time,Mad Dog Time,1996
+1317,16697,I'm Not Rappaport,I'm Not Rappaport,1996
+1318,9211,Blue Juice,Blue Juice,1995
+1321,7713,"American Werewolf in London, An",An American Werewolf in London,1981
+1322,14548,Amityville 1992: It's About Time,Amityville 1992: It's About Time,1992
+1323,8476,Amityville 3-D,Amityville 3-D,1983
+1326,16212,Amityville II: The Possession,Amityville II: The Possession,1982
+1327,1939,"Amityville Horror, The",The Amityville Horror,1979
+1330,4281,April Fool's Day,April Fool's Day,1986
+1331,13242,Audrey Rose,Audrey Rose,1977
+1332,13041,"Believers, The",The Believers,1987
+1333,14039,"Birds, The",The Birds,1963
+1334,17730,"Blob, The",The Blob,1958
+1336,6516,Body Parts,Body Parts,1991
+1339,2252,Bram Stoker's Dracula,Bram Stoker's Dracula,1992
+1341,2841,Burnt Offerings,Burnt Offerings,1976
+1342,12682,Candyman,Candyman,1992
+1344,17188,Cape Fear,Cape Fear,1962
+1345,12890,Carrie,Carrie,1976
+1346,10041,Cat People,Cat People,1982
+1347,4402,"Nightmare on Elm Street, A",A Nightmare on Elm Street,1984
+1350,2348,"Omen, The",The Omen,1976
+1353,4214,"Mirror Has Two Faces, The",The Mirror Has Two Faces,1996
+1354,14259,Breaking the Waves,Breaking the Waves,1996
+1356,11859,Star Trek: First Contact,Star Trek: First Contact,1996
+1357,16150,Shine,Shine,1996
+1358,5788,Sling Blade,Sling Blade,1996
+1359,78,Jingle All the Way,Jingle All the Way,1996
+1361,1135,Paradise Lost: The Child Murders at Robin Hood Hills,Paradise Lost: The Child Murders at Robin Hood Hills,1996
+1363,15375,"Preacher's Wife, The",The Preacher's Wife,1996
+1365,14173,Ridicule,Ridicule,1996
+1366,1531,"Crucible, The",The Crucible,1996
+1371,1902,Star Trek: The Motion Picture,Star Trek: The Motion Picture,1979
+1372,17302,Star Trek VI: The Undiscovered Country,Star Trek VI: The Undiscovered Country,1991
+1373,6908,Star Trek V: The Final Frontier,Star Trek V: The Final Frontier,1989
+1375,7145,Star Trek III: The Search for Spock,Star Trek III: The Search for Spock,1984
+1376,5656,Star Trek IV: The Voyage Home,Star Trek IV: The Voyage Home,1986
+1377,9265,Batman Returns,Batman Returns,1992
+1378,5997,Young Guns,Young Guns,1988
+1379,9204,Young Guns II,Young Guns II,1990
+1380,15062,Grease,Grease,1978
+1381,2109,Grease 2,Grease 2,1982
+1382,13227,Marked for Death,Marked For Death,1990
+1383,1869,Adrenalin: Fear the Rush,Adrenalin: Fear the Rush,1996
+1385,2001,Under Siege,Under Siege,1992
+1387,798,Jaws,Jaws,1975
+1388,11171,Jaws 2,Jaws 2,1978
+1390,13738,My Fellow Americans,My Fellow Americans,1996
+1391,4171,Mars Attacks!,Mars Attacks!,1996
+1392,15808,Citizen Ruth,Citizen Ruth,1996
+1393,13763,Jerry Maguire,Jerry Maguire,1996
+1394,14382,Raising Arizona,Raising Arizona,1987
+1395,1837,Tin Men,Tin Men,1987
+1396,4862,Sneakers,Sneakers,1992
+1397,9738,Bastard Out of Carolina,Bastard out of Carolina,1996
+1398,10073,In Love and War,In Love and War,1996
+1399,652,Marvin's Room,Marvin's Room,1996
+1401,14241,Ghosts of Mississippi,Ghosts of Mississippi,1996
+1404,15277,Night Falls on Manhattan,Night Falls on Manhattan,1997
+1405,9785,Beavis and Butt-head Do America,Beavis and Butt-head Do America,1996
+1407,2395,Scream,Scream,1996
+1408,16605,"Last of the Mohicans, The",The Last of the Mohicans,1992
+1409,6266,Michael,Michael,1996
+1410,13978,"Evening Star, The",The Evening Star,1996
+1413,12736,"Whole Wide World, The",The Whole Wide World,1996
+1414,10102,Mother,Mother,1996
+1416,11313,Evita,Evita,1996
+1419,3599,Walkabout,Walkabout,1971
+1422,17002,Murder at 1600,Murder at 1600,1997
+1425,9072,Fierce Creatures,Fierce Creatures,1997
+1426,429,Zeus and Roxanne,Zeus and Roxanne,1997
+1427,3077,Turbulence,Turbulence,1997
+1431,3923,Beverly Hills Ninja,Beverly Hills Ninja,1997
+1432,16908,Metro,Metro,1997
+1438,3113,Dante's Peak,Dante's Peak,1997
+1439,3951,Meet Wally Sparks,Meet Wally Sparks,1997
+1440,10403,Amos & Andrew,Amos & Andrew,1993
+1442,13641,Prefontaine,Prefontaine,1997
+1444,16777,Guantanamera,Guantanamera,1994
+1445,10526,McHale's Navy,McHale's Navy,1997
+1446,4628,Kolya,Kolya,1996
+1447,10388,Gridlock'd,Gridlock'd,1997
+1449,16201,Waiting for Guffman,Waiting for Guffman,1996
+1453,16267,"Beautician and the Beast, The",The Beautician and the Beast,1997
+1459,1682,Absolute Power,Absolute Power,1997
+1460,13063,That Darn Cat!,That Darn Cat,1997
+1461,4876,Vegas Vacation,Vegas Vacation,1997
+1463,17649,That Old Feeling,That Old Feeling,1997
+1464,15257,Lost Highway,Lost Highway,1997
+1465,10423,Rosewood,Rosewood,1997
+1466,6221,Donnie Brasco,Donnie Brasco,1997
+1468,17131,Booty Call,Booty Call,1997
+1470,955,Rhyme & Reason,Rhyme & Reason,1997
+1472,719,City of Industry,City of Industry,1997
+1473,3808,Best Men,Best Men,1997
+1476,3182,Private Parts,Private Parts,1997
+1477,7242,Love Jones,Love Jones,1997
+1479,4932,"Saint, The",The Saint,1997
+1480,12194,Smilla's Sense of Snow,Smilla's Sense of Snow,1997
+1483,6174,Crash,Crash,1996
+1485,2095,Liar Liar,Liar Liar,1997
+1487,15545,Selena,Selena,1997
+1488,285,"Devil's Own, The",The Devil's Own,1997
+1489,4456,Cats Don't Dance,Cats Don't Dance,1997
+1490,13496,B*A*P*S,B.A.P.S.,1997
+1495,2011,Turbo: A Power Rangers Movie,Turbo: A Power Rangers Movie,1997
+1497,2337,Double Team,Double Team,1997
+1498,11739,Inventing the Abbotts,Inventing the Abbotts,1997
+1499,11929,Anaconda,Anaconda,1997
+1500,8317,Grosse Pointe Blank,Grosse Pointe Blank,1997
+1501,15906,Keys to Tulsa,Keys to Tulsa,1997
+1502,16055,Kissed,Kissed,1996
+1503,9926,8 Heads in a Duffel Bag,8 Heads in a Duffel Bag,1997
+1507,13039,Paradise Road,Paradise Road,1997
+1508,16815,Traveller,Traveller,1997
+1509,11833,All Over Me,All Over Me,1997
+1513,11717,Romy and Michele's High School Reunion,Romy and Michele's High School Reunion,1997
+1515,13860,Volcano,Volcano,1997
+1516,7698,Children of the Revolution,Children of the Revolution,1996
+1517,13195,Austin Powers: International Man of Mystery,Austin Powers: International Man of Mystery,1997
+1518,8178,Breakdown,Breakdown,1997
+1520,12039,Commandments,Commandments,1997
+1523,1170,"Truth or Consequences, N.M.","Truth or Consequences, N.M.",1997
+1525,6270,Warriors of Virtue,Warriors of Virtue,1997
+1526,9974,Fathers' Day,Fathers' Day,1997
+1527,9882,"Fifth Element, The",The Fifth Element,1997
+1535,15798,Love! Valour! Compassion!,Love! Valour! Compassion!,1997
+1541,2876,Addicted to Love,Addicted to Love,1997
+1542,1250,Brassed Off,Brassed Off,1996
+1543,4183,"Designated Mourner, The",The Designated Mourner,1997
+1544,4698,"Lost World: Jurassic Park, The",The Lost World: Jurassic Park,1997
+1545,10341,Ponette,Ponette,1996
+1546,4747,Schizopolis,Schizopolis,1996
+1548,11174,"War at Home, The",The War at Home,1996
+1549,17044,Rough Magic,Rough Magic,1995
+1551,16608,Buddy,Buddy,1997
+1552,16242,Con Air,Con Air,1997
+1556,12149,Speed 2: Cruise Control,Speed 2: Cruise Control,1997
+1562,12092,Batman & Robin,Batman & Robin,1997
+1563,13838,Dream With the Fishes,Dream with the Fishes,1997
+1566,940,Hercules,Hercules,1997
+1567,11672,"Last Time I Committed Suicide, The",The Last Time I Committed Suicide,1997
+1569,10375,My Best Friend's Wedding,My Best Friend's Wedding,1997
+1573,16765,Face/Off,Face/Off,1997
+1574,1194,Fall,Fall,1997
+1580,12918,Men in Black,Men in Black,1997
+1581,10343,Out to Sea,Out to Sea,1997
+1582,11119,Wild America,Wild America,1997
+1584,11701,Contact,Contact,1997
+1585,16549,Love Serenade,Love Serenade,1996
+1586,9235,G.I. Jane,G.I. Jane,1997
+1588,6961,George of the Jungle,George of the Jungle,1997
+1589,9432,Cop Land,Cop Land,1997
+1590,12940,Event Horizon,Event Horizon,1997
+1592,8518,Air Bud,Air Bud,1997
+1593,7401,Picture Perfect,Picture Perfect,1997
+1594,9095,In the Company of Men,In the Company of Men,1997
+1595,7004,Free Willy 3: The Rescue,Free Willy 3: The Rescue,1997
+1596,3901,Career Girls,Career Girls,1997
+1597,8334,Conspiracy Theory,Conspiracy Theory,1997
+1598,6677,Desperate Measures,Desperate Measures,1998
+1600,8589,She's So Lovely,She's So Lovely,1997
+1601,6157,Hoodlum,Hoodlum,1997
+1602,3196,Leave It to Beaver,Leave it to Beaver,1997
+1603,4517,Mimic,Mimic,1997
+1604,15529,Money Talks,Money Talks,1997
+1605,2137,Excess Baggage,Excess Baggage,1997
+1606,13518,Kull the Conqueror,Kull the Conqueror,1997
+1608,13651,Air Force One,Air Force One,1997
+1609,8830,187,187,1997
+1610,6274,"Hunt for Red October, The",The Hunt for Red October,1990
+1611,7347,My Own Private Idaho,My Own Private Idaho,1991
+1612,13523,"Kiss Me, Guido",Kiss Me Guido,1997
+1614,8872,In & Out,In & Out,1997
+1615,8232,"Edge, The",The Edge,1997
+1616,15730,"Peacemaker, The",The Peacemaker,1997
+1617,9818,L.A. Confidential,L.A. Confidential,1997
+1619,5704,Seven Years in Tibet,Seven Years in Tibet,1997
+1620,9111,Kiss the Girls,Kiss the Girls,1997
+1621,8754,Soul Food,Soul Food,1997
+1622,11151,Kicked in the Head,Kicked in the Head,1997
+1624,505,"Thousand Acres, A",A Thousand Acres,1997
+1625,143,"Game, The",The Game,1997
+1626,5957,Fire Down Below,Fire Down Below,1997
+1627,4852,U Turn,U Turn,1997
+1628,8176,"Locusts, The",The Locusts,1997
+1629,7650,"MatchMaker, The",The Matchmaker,1997
+1631,5531,"Assignment, The",The Assignment,1997
+1632,15669,"Smile Like Yours, A",A Smile Like Yours,1997
+1633,12391,Ulee's Gold,Ulee's Gold,1997
+1635,3355,"Ice Storm, The",The Ice Storm,1997
+1639,331,Chasing Amy,Chasing Amy,1997
+1640,4092,How to Be a Player,How To Be A Player,1997
+1641,4227,"Full Monty, The",The Full Monty,1997
+1644,12014,I Know What You Did Last Summer,I Know What You Did Last Summer,1997
+1645,17129,"Devil's Advocate, The",The Devil's Advocate,1997
+1647,3768,Playing God,Playing God,1997
+1648,13990,"House of Yes, The",The House of Yes,1997
+1649,2889,"Fast, Cheap & Out of Control","Fast, Cheap & Out of Control",1997
+1650,4926,Washington Square,Washington Square,1997
+1651,15799,Telling Lies in America,Telling Lies in America,1997
+1653,17762,Gattaca,Gattaca,1997
+1655,15068,Phantoms,Phantoms,1998
+1656,3847,Swept from the Sea,Swept from the Sea,1997
+1658,7917,"Life Less Ordinary, A",A Life Less Ordinary,1997
+1660,6072,Eve's Bayou,Eve's Bayou,1997
+1661,14176,Switchback,Switchback,1997
+1662,13450,Gang Related,Gang Related,1997
+1663,9828,Stripes,Stripes,1981
+1667,13577,Mad City,Mad City,1997
+1668,15080,One Night Stand,One Night Stand,1997
+1670,16039,Welcome To Sarajevo,Welcome to Sarajevo,1997
+1671,16659,Deceiver,Deceiver,1997
+1672,11277,"Rainmaker, The",The Rainmaker,1997
+1673,9049,Boogie Nights,Boogie Nights,1997
+1674,15057,Witness,Witness,1985
+1675,6791,Incognito,Incognito,1997
+1676,14192,Starship Troopers,Starship Troopers,1997
+1678,13207,"Joy Luck Club, The",The Joy Luck Club,1993
+1679,17204,Chairman of the Board,Chairman of the Board,1998
+1680,11638,Sliding Doors,Sliding Doors,1998
+1681,13234,Mortal Kombat: Annihilation,Mortal Kombat: Annihilation,1997
+1682,14618,"Truman Show, The",The Truman Show,1998
+1683,17638,"Wings of the Dove, The",The Wings of the Dove,1997
+1684,13008,Mrs. Dalloway,Mrs. Dalloway,1997
+1685,1654,"I Love You, I Love You Not","I Love You, I Love You Not",1996
+1686,6718,Red Corner,Red Corner,1997
+1687,13795,"Jackal, The",The Jackal,1997
+1688,14822,Anastasia,Anastasia,1997
+1689,9959,"Man Who Knew Too Little, The",The Man Who Knew Too Little,1997
+1693,15385,Amistad,Amistad,1997
+1694,11004,"Apostle, The",The Apostle,1997
+1696,2331,Bent,Bent,1997
+1701,14820,Deconstructing Harry,Deconstructing Harry,1997
+1702,7381,Flubber,Flubber,1997
+1703,11848,For Richer or Poorer,For Richer or Poorer,1997
+1704,8904,Good Will Hunting,Good Will Hunting,1997
+1707,13417,Home Alone 3,Home Alone 3,1997
+1711,4570,Midnight in the Garden of Good and Evil,Midnight in the Garden of Good and Evil,1997
+1713,5063,Mouse Hunt,Mouse Hunt,1997
+1715,664,Office Killer,Office Killer,1997
+1716,5966,"Other Voices, Other Rooms","Other Voices, Other Rooms",1997
+1717,12224,Scream 2,Scream 2,1997
+1719,12667,"Sweet Hereafter, The",The Sweet Hereafter,1997
+1721,16879,Titanic,Titanic,1997
+1722,17621,Tomorrow Never Dies,Tomorrow Never Dies,1997
+1725,1179,"Education of Little Tree, The",The Education of Little Tree,1997
+1726,12309,"Postman, The",The Postman,1997
+1727,9110,"Horse Whisperer, The",The Horse Whisperer,1998
+1728,9226,"Winter Guest, The",The Winter Guest,1997
+1730,11172,Kundun,Kundun,1997
+1731,731,Mr. Magoo,Mr. Magoo,1997
+1732,15425,"Big Lebowski, The",The Big Lebowski,1998
+1733,1323,Afterglow,Afterglow,1997
+1735,17180,Great Expectations,Great Expectations,1998
+1739,12434,3 Ninjas: High Noon On Mega Mountain,3 Ninjas: High Noon on Mega Mountain,1998
+1742,14221,Caught Up,Caught Up,1998
+1744,15466,Firestorm,Firestorm,1998
+1746,12303,Senseless,Senseless,1998
+1747,10230,Wag the Dog,Wag the Dog,1997
+1748,2780,Dark City,Dark City,1998
+1752,8641,Hard Rain,Hard Rain,1998
+1753,3274,Half Baked,Half Baked,1998
+1754,937,Fallen,Fallen,1998
+1755,11259,Shooting Fish,Shooting Fish,1997
+1758,16439,Dangerous Beauty,Dangerous Beauty,1998
+1759,7955,Four Days in September,Four Days in September,1997
+1762,15377,Deep Rising,Deep Rising,1998
+1769,393,"Replacement Killers, The",The Replacement Killers,1998
+1771,9674,Night Flier,Night Flier,1997
+1772,7165,Blues Brothers 2000,Blues Brothers 2000,1998
+1773,8891,Tokyo Fist,Tokyo Fist,1995
+1776,12357,Ride,Ride,1998
+1777,16438,"Wedding Singer, The",The Wedding Singer,1998
+1779,1693,Sphere,Sphere,1998
+1782,13509,Little City,Little City,1998
+1783,7169,Palmetto,Palmetto,1998
+1784,9728,As Good As It Gets,As Good as It Gets,1997
+1788,9784,Men With Guns,Men with Guns,1997
+1791,9309,Twilight,Twilight,1998
+1796,16110,In God's Hands,In God's Hands,1998
+1798,9759,Hush,Hush,1998
+1799,14144,Suicide Kings,Suicide Kings,1997
+1801,10739,"Man in the Iron Mask, The",The Man in the Iron Mask,1998
+1804,7069,"Newton Boys, The",The Newton Boys,1998
+1805,330,Wild Things,Wild Things,1998
+1807,9695,"Cool Dry Place, A","A Cool, Dry Place",1998
+1810,7563,Primary Colors,Primary Colors,1998
+1812,17554,Wide Awake,Wide Awake,1998
+1814,13852,"Price Above Rubies, A",A Price Above Rubies,1998
+1817,5447,No Looking Back,No Looking Back,1998
+1819,327,Storefront Hitchcock,Storefront Hitchcock,1997
+1821,7980,"Object of My Affection, The",The Object of My Affection,1998
+1824,6470,Homegrown,Homegrown,1998
+1829,1157,Chinese Box,Chinese Box,1997
+1831,6268,Lost in Space,Lost in Space,1998
+1832,13223,Heaven's Burning,Heaven's Burning,1997
+1833,13865,Mercury Rising,Mercury Rising,1998
+1834,2640,"Spanish Prisoner, The",The Spanish Prisoner,1997
+1835,14909,City of Angels,City of Angels,1998
+1837,7314,"Odd Couple II, The",The Odd Couple II,1998
+1839,4936,My Giant,My Giant,1998
+1840,1329,He Got Game,He Got Game,1998
+1841,2472,"Gingerbread Man, The",The Gingerbread Man,1998
+1844,3886,Live Flesh,Live Flesh,1997
+1845,16182,Zero Effect,Zero Effect,1998
+1846,9029,Nil By Mouth,Nil by Mouth,1997
+1848,5672,"Borrowers, The",The Borrowers,1997
+1850,17206,"I Love You, Don't Touch Me!","I Love You, Don't Touch Me",1998
+1854,14760,Kissing a Fool,Kissing a Fool,1998
+1855,1172,Krippendorf's Tribe,Krippendorf's Tribe,1998
+1856,1365,Kurt & Courtney,Kurt & Courtney,1998
+1858,12767,Mr. Nice Guy,Mr. Nice Guy,1997
+1859,12723,Taste of Cherry,Taste of Cherry,1997
+1862,1819,Species II,Species II,1998
+1864,1933,Sour Grapes,Sour Grapes,1998
+1866,4064,"Big Hit, The",The Big Hit,1998
+1867,6778,Tarzan and the Lost City,Tarzan and the Lost City,1998
+1868,11120,"Truce, The",The Truce,1996
+1869,3830,Black Dog,Black Dog,1998
+1875,11750,Clockwatchers,Clockwatchers,1997
+1876,7356,Deep Impact,Deep Impact,1998
+1877,2717,Little Men,Little Men,1998
+1878,11127,Woo,Woo,1998
+1880,1039,Lawn Dogs,Lawn Dogs,1997
+1881,8781,Quest for Camelot,Quest for Camelot,1998
+1882,10282,Godzilla,Godzilla,1998
+1883,15748,Bulworth,Bulworth,1998
+1884,3824,Fear and Loathing in Las Vegas,Fear and Loathing in Las Vegas,1998
+1885,3253,"Opposite of Sex, The",The Opposite of Sex,1998
+1886,12452,I Got the Hook Up,I Got the Hook Up,1998
+1887,14985,Almost Heroes,Almost Heroes,1998
+1888,5055,Hope Floats,Hope Floats,1998
+1889,9505,Insomnia,Insomnia,1997
+1891,14316,"Ugly, The",The Ugly,1997
+1892,15436,"Perfect Murder, A",A Perfect Murder,1998
+1893,8297,Beyond Silence,Beyond Silence,1996
+1894,11405,Six Days Seven Nights,"Six Days, Seven Nights",1998
+1895,7633,Can't Hardly Wait,Can't Hardly Wait,1998
+1896,5444,Cousin Bette,Cousin Bette,1998
+1897,3408,High Art,High Art,1998
+1903,3681,Hav Plenty,Hav Plenty,1997
+1904,949,Henry Fool,Henry Fool,1997
+1909,12003,"X-Files: Fight the Future, The",The X-Files: Fight the Future,1998
+1912,13486,Out of Sight,Out of Sight,1998
+1913,12626,Picnic at Hanging Rock,Picnic at Hanging Rock,1975
+1914,6697,Smoke Signals,Smoke Signals,1998
+1916,2149,Buffalo 66,Buffalo '66,1998
+1917,6972,Armageddon,Armageddon,1998
+1918,14367,Lethal Weapon 4,Lethal Weapon 4,1998
+1919,3907,Madeline,Madeline,1998
+1920,10527,Small Soldiers,Small Soldiers,1998
+1924,5622,Plan 9 from Outer Space,Plan 9 from Outer Space,1958
+1927,3224,All Quiet on the Western Front,All Quiet on the Western Front,1930
+1929,16670,Grand Hotel,Grand Hotel,1932
+1931,1129,Mutiny on the Bounty,Mutiny on the Bounty,1935
+1932,4804,"Great Ziegfeld, The",The Great Ziegfeld,1936
+1934,5731,You Can't Take It With You,You Can't Take It With You,1938
+1935,3582,How Green Was My Valley,How Green Was My Valley,1941
+1936,8572,Mrs. Miniver,Mrs. Miniver,1942
+1938,4591,"Lost Weekend, The",The Lost Weekend,1945
+1939,14155,"Best Years of Our Lives, The",The Best Years of Our Lives,1946
+1940,13442,Gentleman's Agreement,Gentleman's Agreement,1947
+1942,15856,All the King's Men,All the King's Men,1949
+1943,14578,"Greatest Show on Earth, The",The Greatest Show on Earth,1952
+1944,14112,From Here to Eternity,From Here to Eternity,1953
+1945,15997,On the Waterfront,On the Waterfront,1954
+1946,2701,Marty,Marty,1955
+1947,16499,West Side Story,West Side Story,1961
+1948,14013,Tom Jones,Tom Jones,1963
+1949,15858,"Man for All Seasons, A",A Man for All Seasons,1966
+1950,5854,In the Heat of the Night,In the Heat of the Night,1967
+1951,10053,Oliver!,Oliver!,1968
+1952,1466,Midnight Cowboy,Midnight Cowboy,1969
+1953,12186,"French Connection, The",The French Connection,1971
+1954,5571,Rocky,Rocky,1976
+1955,13384,Kramer Vs. Kramer,Kramer vs. Kramer,1979
+1956,4479,Ordinary People,Ordinary People,1980
+1957,4736,Chariots of Fire,Chariots of Fire,1981
+1958,13392,Terms of Endearment,Terms of Endearment,1983
+1959,5137,Out of Africa,Out of Africa,1985
+1960,10734,"Last Emperor, The",The Last Emperor,1987
+1961,4640,Rain Man,Rain Man,1988
+1962,7364,Driving Miss Daisy,Driving Miss Daisy,1989
+1963,16889,Take the Money and Run,Take the Money and Run,1969
+1964,14229,Klute,Klute,1971
+1965,1175,Repo Man,Repo Man,1984
+1967,14664,Labyrinth,Labyrinth,1986
+1968,6797,"Breakfast Club, The",The Breakfast Club,1985
+1970,3225,"Nightmare on Elm Street 3: Dream Warriors, A",A Nightmare on Elm Street 3: Dream Warriors,1987
+1971,15177,"Nightmare on Elm Street 4: The Dream Master, A",A Nightmare on Elm Street 4: The Dream Master,1988
+1972,13002,"Nightmare on Elm Street 5: The Dream Child, A",A Nightmare on Elm Street 5: The Dream Child,1989
+1973,12487,Freddy's Dead: The Final Nightmare,Freddy's Dead: The Final Nightmare,1991
+1974,15465,Friday the 13th,Friday the 13th,1980
+1975,13077,Friday the 13th Part 2,Friday the 13th: Part 2,1981
+1982,17004,Halloween,Halloween,1978
+1983,3526,Halloween II,Halloween II,1981
+1985,17603,Halloween 4: The Return of Michael Myers,Halloween 4: The Return of Michael Myers,1988
+1986,401,Halloween 5: The Revenge of Michael Myers,Halloween 5: The Revenge of Michael Myers,1989
+1987,16553,Prom Night,Prom Night,1980
+1991,12054,Child's Play,Child's Play,1988
+1994,1571,Poltergeist,Poltergeist,1982
+1997,16793,"Exorcist, The",The Exorcist,1973
+2000,1798,Lethal Weapon,Lethal Weapon,1987
+2001,12435,Lethal Weapon 2,Lethal Weapon 2,1989
+2002,3610,Lethal Weapon 3,Lethal Weapon 3,1992
+2003,6482,Gremlins,Gremlins,1984
+2004,2897,Gremlins 2: The New Batch,Gremlins 2: The New Batch,1990
+2005,9254,"Goonies, The",The Goonies,1985
+2006,15818,"Mask of Zorro, The",The Mask of Zorro,1998
+2007,2949,Polish Wedding,Polish Wedding,1998
+2009,10119,Soylent Green,Soylent Green,1973
+2011,4956,Back to the Future Part II,Back to the Future Part II,1989
+2012,851,Back to the Future Part III,Back to the Future Part III,1990
+2013,763,"Poseidon Adventure, The",The Poseidon Adventure,1972
+2015,9805,"Absent Minded Professor, The",The Absent-Minded Professor,1961
+2016,3398,"Apple Dumpling Gang Rides Again, The",The Apple Dumpling Gang Rides Again,1979
+2020,15064,Dangerous Liaisons,Dangerous Liaisons,1988
+2021,17064,Dune,Dune,1984
+2022,348,"Last Temptation of Christ, The",The Last Temptation of Christ,1988
+2023,5778,"Godfather: Part III, The","The Godfather, Part III",1990
+2024,14813,"Rapture, The",The Rapture,1991
+2025,14253,Lolita,Lolita,1997
+2026,4374,Disturbing Behavior,Disturbing Behavior,1998
+2027,676,Mafia!,Mafia!,1998
+2028,17157,Saving Private Ryan,Saving Private Ryan,1998
+2033,12538,"Black Cauldron, The",The Black Cauldron,1985
+2034,9677,"Black Hole, The",The Black Hole,1979
+2035,8043,Blackbeard's Ghost,Blackbeard's Ghost,1968
+2036,4535,Blank Check,Blank Check,1994
+2037,10509,Candleshoe,Candleshoe,1977
+2038,6102,"Cat from Outer Space, The",The Cat from Outer Space,1978
+2042,14248,D2: The Mighty Ducks,D2: The Mighty Ducks,1994
+2043,9905,Darby O'Gill and the Little People,Darby O'Gill and the Little People,1959
+2045,2097,"Far Off Place, A",A Far Off Place,1993
+2046,3285,Flight of the Navigator,Flight of the Navigator,1986
+2047,1346,"Gnome-Mobile, The",The Gnome-Mobile,1967
+2048,5149,"Great Mouse Detective, The",The Great Mouse Detective,1986
+2049,9455,"Happiest Millionaire, The",The Happiest Millionaire,1967
+2050,13806,Herbie Goes Bananas,Herbie Goes Bananas,1980
+2051,8349,Herbie Goes to Monte Carlo,Herbie Goes to Monte Carlo,1977
+2052,2783,Hocus Pocus,Hocus Pocus,1993
+2053,16441,"Honey, I Blew Up the Kid","Honey, I Blew Up the Kid",1992
+2054,11176,"Honey, I Shrunk the Kids","Honey, I Shrunk the Kids",1989
+2056,2468,In Search of the Castaways,In Search of the Castaways,1962
+2058,17215,"Negotiator, The",The Negotiator,1998
+2059,3364,"Parent Trap, The",The Parent Trap,1998
+2060,2173,BASEketball,BASEketball,1998
+2062,10253,"Governess, The",The Governess,1998
+2064,720,Roger & Me,Roger & Me,1989
+2065,8199,"Purple Rose of Cairo, The",The Purple Rose of Cairo,1985
+2066,17619,Out of the Past,Out of the Past,1947
+2067,3153,Doctor Zhivago,Doctor Zhivago,1965
+2069,8454,"Trip to Bountiful, The",The Trip to Bountiful,1985
+2070,9987,Tender Mercies,Tender Mercies,1983
+2072,11199,"'burbs, The",The 'Burbs,1989
+2073,3654,Fandango,Fandango,1985
+2075,12885,Mephisto,Mephisto,1981
+2077,1619,"Journey of Natty Gann, The",The Journey of Natty Gann,1985
+2080,10466,Lady and the Tramp,Lady and the Tramp,1955
+2081,17714,"Little Mermaid, The",The Little Mermaid,1989
+2082,17134,"Mighty Ducks, The",The Mighty Ducks,1992
+2084,2590,Newsies,Newsies,1992
+2087,17426,Peter Pan,Peter Pan,1953
+2088,7064,Popeye,Popeye,1980
+2089,7922,"Rescuers Down Under, The",The Rescuers Down Under,1990
+2090,7555,"Rescuers, The",The Rescuers,1977
+2091,13182,Return from Witch Mountain,Return from Witch Mountain,1978
+2093,17050,Return to Oz,Return to Oz,1985
+2094,11985,"Rocketeer, The",The Rocketeer,1991
+2097,9916,Something Wicked This Way Comes,Something Wicked This Way Comes,1983
+2098,3305,Son of Flubber,Son of Flubber,1963
+2101,11106,Squanto: A Warrior's Tale,Squanto: A Warrior's Tale,1994
+2104,12608,Tex,Tex,1982
+2105,7613,Tron,Tron,1982
+2106,7434,Swing Kids,Swing Kids,1993
+2108,9132,L.A. Story,L.A. Story,1991
+2109,12280,"Jerk, The",The Jerk,1979
+2110,1262,Dead Men Don't Wear Plaid,Dead Men Don't Wear Plaid,1982
+2111,13605,"Man with Two Brains, The",The Man with Two Brains,1983
+2112,7630,Grand Canyon,Grand Canyon,1991
+2113,427,Graveyard Shift,Graveyard Shift,1990
+2114,12221,"Outsiders, The",The Outsiders,1983
+2115,11781,Indiana Jones and the Temple of Doom,Indiana Jones and the Temple of Doom,1984
+2116,1757,"Lord of the Rings, The",The Lord of the Rings,1978
+2118,1646,"Dead Zone, The",The Dead Zone,1983
+2119,9927,Maximum Overdrive,Maximum Overdrive,1986
+2120,10724,Needful Things,Needful Things,1993
+2121,2460,Cujo,Cujo,1983
+2122,994,Children of the Corn,Children of the Corn,1984
+2123,17133,All Dogs Go to Heaven,All Dogs Go to Heaven,1989
+2124,3198,"Addams Family, The",The Addams Family,1991
+2125,1703,Ever After: A Cinderella Story,Ever After: A Cinderella Story,1998
+2126,10337,Snake Eyes,Snake Eyes,1998
+2129,7422,"Saltmen of Tibet, The",The Saltmen of Tibet,1997
+2130,7877,Atlantic City,Atlantic City,1980
+2132,17533,Who's Afraid of Virginia Woolf?,Who's Afraid of Virginia Woolf?,1966
+2133,7534,Adventures in Babysitting,Adventures in Babysitting,1987
+2134,10212,Weird Science,Weird Science,1985
+2135,7343,Doctor Dolittle,Doctor Dolittle,1967
+2136,11526,"Nutty Professor, The",The Nutty Professor,1963
+2137,257,Charlotte's Web,Charlotte's Web,1973
+2140,12560,"Dark Crystal, The",The Dark Crystal,1982
+2141,11084,"American Tail, An",An American Tail,1986
+2142,7636,"American Tail: Fievel Goes West, An",An American Tail: Fievel Goes West,1991
+2144,1754,Sixteen Candles,Sixteen Candles,1984
+2145,14953,Pretty in Pink,Pretty in Pink,1986
+2146,6050,St. Elmo's Fire,St. Elmo's Fire,1985
+2147,3809,"Clan of the Cave Bear, The",The Clan of the Cave Bear,1986
+2148,5982,House,House,1986
+2149,15619,House II: The Second Story,House II: The Second Story,1987
+2150,11949,"Gods Must Be Crazy, The",The Gods Must Be Crazy,1980
+2152,16885,Air Bud: Golden Receiver,Air Bud: Golden Receiver,1998
+2153,289,"Avengers, The",The Avengers,1998
+2154,14477,How Stella Got Her Groove Back,How Stella Got Her Groove Back,1998
+2159,5642,Henry: Portrait of a Serial Killer,Henry: Portrait of a Serial Killer,1990
+2160,1832,Rosemary's Baby,Rosemary's Baby,1968
+2161,12501,"NeverEnding Story, The",The NeverEnding Story,1984
+2164,7709,Surf Nazis Must Die,Surf Nazis Must Die,1987
+2166,489,Return to Paradise,Return to Paradise,1998
+2167,7511,Blade,Blade,1998
+2168,1814,Dance with Me,Dance with Me,1998
+2169,808,Dead Man on Campus,Dead Man on Campus,1998
+2170,3988,Wrongfully Accused,Wrongfully Accused,1998
+2171,4890,"Next Stop, Wonderland",Next Stop Wonderland,1998
+2174,14780,Beetlejuice,Beetlejuice,1988
+2176,9061,Rope,Rope,1948
+2177,9655,Family Plot,Family Plot,1976
+2178,1218,Frenzy,Frenzy,1972
+2180,491,Torn Curtain,Torn Curtain,1966
+2181,17109,Marnie,Marnie,1964
+2182,14666,"Wrong Man, The",The Wrong Man,1956
+2183,5955,"Man Who Knew Too Much, The",The Man Who Knew Too Much,1956
+2184,1521,"Trouble with Harry, The",The Trouble With Harry,1955
+2185,16425,I Confess,I Confess,1953
+2187,17386,Stage Fright,Stage Fright,1950
+2188,5035,54,54,1998
+2190,5977,Why Do Fools Fall In Love?,Why Do Fools Fall in Love,1998
+2193,7779,Willow,Willow,1988
+2194,7219,"Untouchables, The",The Untouchables,1987
+2195,2711,Dirty Work,Dirty Work,1998
+2196,12207,Knock Off,Knock Off,1998
+2197,16091,Firelight,Firelight,1997
+2199,11735,Phoenix,Phoenix,1998
+2200,8245,Under Capricorn,Under Capricorn,1949
+2201,15668,"Paradine Case, The",The Paradine Case,1947
+2202,12237,Lifeboat,Lifeboat,1944
+2203,14431,Shadow of a Doubt,Shadow of a Doubt,1943
+2204,3773,Saboteur,Saboteur,1942
+2205,10186,Mr. & Mrs. Smith,Mr. & Mrs. Smith,1941
+2206,15814,Suspicion,Suspicion,1941
+2207,1186,Jamaica Inn,Jamaica Inn,1939
+2208,7117,"Lady Vanishes, The",The Lady Vanishes,1938
+2210,6861,Sabotage,Sabotage,1936
+2211,11261,Secret Agent,Secret Agent,1936
+2212,3453,"Man Who Knew Too Much, The",The Man Who Knew Too Much,1934
+2219,15504,Murder!,Murder!,1930
+2223,9703,"Farmer's Wife, The",The Farmer's Wife,1928
+2231,8851,Rounders,Rounders,1998
+2232,8837,Cube,Cube,1997
+2233,2739,Digging to China,Digging to China,1998
+2236,11234,Simon Birch,Simon Birch,1998
+2237,13882,Without Limits,Without Limits,1998
+2240,817,My Bodyguard,My Bodyguard,1980
+2241,17323,Class,Class,1983
+2243,4874,Broadcast News,Broadcast News,1987
+2245,12365,Working Girl,Working Girl,1988
+2247,12275,Married to the Mob,Married to the Mob,1988
+2248,16063,Say Anything...,Say Anything,1989
+2249,14166,My Blue Heaven,My Blue Heaven,1990
+2252,9087,Hero,Hero,1992
+2253,12115,Toys,Toys,1992
+2255,15806,Young Doctors in Love,Young Doctors in Love,1982
+2256,14555,Parasite,Parasite,1982
+2257,13339,No Small Affair,No Small Affair,1984
+2259,4413,Blame It on Rio,Blame It on Rio,1984
+2261,17081,One Crazy Summer,One Crazy Summer,1986
+2262,7864,About Last Night...,About Last Night...,1986
+2263,3725,"Seventh Sign, The",The Seventh Sign,1988
+2264,12381,We're No Angels,We're No Angels,1989
+2265,16193,Nothing But Trouble,Nothing But Trouble,1991
+2266,5342,"Butcher's Wife, The",The Butcher's Wife,1991
+2267,11462,Mortal Thoughts,Mortal Thoughts,1991
+2268,16668,"Few Good Men, A",A Few Good Men,1992
+2269,10078,Indecent Proposal,Indecent Proposal,1993
+2271,12860,Permanent Midnight,Permanent Midnight,1998
+2272,689,One True Thing,One True Thing,1998
+2273,6350,Rush Hour,Rush Hour,1998
+2275,7693,Six-String Samurai,Six-String Samurai,1998
+2278,15816,Ronin,Ronin,1998
+2279,6771,Urban Legend,Urban Legend,1998
+2280,5041,Clay Pigeons,Clay Pigeons,1998
+2281,13596,Monument Ave.,Monument Ave.,1998
+2282,15677,Pecker,Pecker,1998
+2283,11225,"Sheltering Sky, The",The Sheltering Sky,1990
+2284,13666,Bandit Queen,Bandit Queen,1994
+2287,12300,Them!,Them!,1954
+2288,15366,"Thing, The",The Thing,1982
+2289,13451,"Player, The",The Player,1992
+2290,16709,Stardust Memories,Stardust Memories,1980
+2291,6329,Edward Scissorhands,Edward Scissorhands,1990
+2293,9024,Shadrach,Shadrach,1998
+2294,9788,Antz,Antz,1998
+2295,3696,"Impostors, The",The Impostors,1998
+2296,7875,"Night at the Roxbury, A",A Night at the Roxbury,1998
+2297,11612,What Dreams May Come,What Dreams May Come,1998
+2298,6982,Strangeland,Strangeland,1998
+2300,13784,"Producers, The",The Producers,1968
+2302,5169,My Cousin Vinny,My Cousin Vinny,1992
+2303,17263,Nashville,Nashville,1975
+2304,1991,Love Is the Devil,Love is the Devil,1998
+2305,1965,Slam,Slam,1998
+2306,11096,Holy Man,Holy Man,1998
+2307,12994,One Tough Cop,One Tough Cop,1998
+2308,15581,Detroit 9000,Detroit 9000,1973
+2310,682,"Mighty, The",The Mighty,1998
+2312,3216,Children of a Lesser God,Children of a Lesser God,1986
+2313,9381,"Elephant Man, The",The Elephant Man,1980
+2314,1193,Beloved,Beloved,1998
+2315,4310,Bride of Chucky,Bride of Chucky,1998
+2316,12399,Practical Magic,Practical Magic,1998
+2317,2911,"Alarmist, The",The Alarmist,1997
+2318,424,Happiness,Happiness,1998
+2320,11213,Apt Pupil,Apt Pupil,1998
+2321,12172,Pleasantville,Pleasantville,1998
+2322,8437,Soldier,Soldier,1998
+2328,3496,Vampires,Vampires,1998
+2329,11152,American History X,American History X,1998
+2331,6113,Living Out Loud,Living Out Loud,1998
+2332,15515,Belly,Belly,1998
+2333,10371,Gods and Monsters,Gods and Monsters,1998
+2334,15894,"Siege, The",The Siege,1998
+2335,14660,"Waterboy, The",The Waterboy,1998
+2336,3730,Elizabeth,Elizabeth,1998
+2337,4247,Velvet Goldmine,Velvet Goldmine,1998
+2338,3920,I Still Know What You Did Last Summer,I Still Know What You Did Last Summer,1998
+2340,16465,Meet Joe Black,Meet Joe Black,1998
+2341,11817,Dancing at Lughnasa,Dancing at Lughnasa,1998
+2344,2622,Runaway Train,Runaway Train,1985
+2345,17669,Desert Bloom,Desert Bloom,1986
+2346,11495,"Stepford Wives, The",The Stepford Wives,1975
+2347,1238,"Pope of Greenwich Village, The",The Pope of Greenwich Village,1984
+2349,16733,Mona Lisa,Mona Lisa,1986
+2350,3228,Heart Condition,Heart Condition,1990
+2352,6902,"Big Chill, The",The Big Chill,1983
+2353,14149,Enemy of the State,Enemy of the State,1998
+2354,9146,"Rugrats Movie, The",The Rugrats Movie,1998
+2355,6510,"Bug's Life, A",A Bug's Life,1998
+2356,11029,Celebrity,Celebrity,1998
+2358,10624,Savior,Savior,1998
+2359,10152,Waking Ned Devine,Waking Ned Devine,1998
+2361,10946,Pink Flamingos,Pink Flamingos,1972
+2362,2713,Glen or Glenda,Glen or Glenda,1953
+2367,6291,King Kong,King Kong,1976
+2368,10994,King Kong Lives,King Kong Lives,1986
+2369,14652,Desperately Seeking Susan,Desperately Seeking Susan,1985
+2370,10911,"Emerald Forest, The",The Emerald Forest,1985
+2371,15422,Fletch,Fletch,1985
+2372,2375,Fletch Lives,Fletch Lives,1989
+2373,3090,Red Sonja,Red Sonja,1985
+2374,9097,Gung Ho,Gung Ho,1986
+2375,5250,"Money Pit, The",The Money Pit,1986
+2377,5236,Lifeforce,Lifeforce,1985
+2379,4289,Police Academy 2: Their First Assignment,Police Academy 2: Their First Assignment,1985
+2380,681,Police Academy 3: Back in Training,Police Academy 3: Back in Training,1986
+2381,8372,Police Academy 4: Citizens on Patrol,Police Academy 4: Citizens on Patrol,1987
+2382,4027,Police Academy 5: Assignment: Miami Beach,Police Academy 5: Assignment - Miami Beach,1988
+2383,12934,Police Academy 6: City Under Siege,Police Academy 6: City Under Siege,1989
+2384,8903,Babe: Pig in the City,Babe: Pig in the City,1998
+2385,14377,Home Fries,Home Fries,1998
+2387,9654,Very Bad Things,Very Bad Things,1998
+2389,1792,Psycho,Psycho,1998
+2390,8827,Little Voice,Little Voice,1998
+2391,7163,"Simple Plan, A",A Simple Plan,1998
+2392,3210,Jack Frost,Jack Frost,1998
+2393,12513,Star Trek: Insurrection,Star Trek: Insurrection,1998
+2394,15163,"Prince of Egypt, The",The Prince of Egypt,1998
+2395,5226,Rushmore,Rushmore,1998
+2396,17764,Shakespeare in Love,Shakespeare in Love,1998
+2398,14134,Miracle on 34th Street,Miracle on 34th Street,1947
+2401,9208,Pale Rider,Pale Rider,1985
+2402,118,Rambo: First Blood Part II,Rambo: First Blood Part II,1985
+2405,6599,"Jewel of the Nile, The",The Jewel of the Nile,1985
+2406,7330,Romancing the Stone,Romancing the Stone,1984
+2407,3017,Cocoon,Cocoon,1985
+2408,9109,Cocoon: The Return,Cocoon: The Return,1988
+2409,9614,Rocky II,Rocky II,1979
+2410,9565,Rocky III,Rocky III,1982
+2411,13501,Rocky IV,Rocky IV,1985
+2412,1558,Rocky V,Rocky V,1990
+2413,17299,Clue,Clue,1985
+2414,4902,Young Sherlock Holmes,Young Sherlock Holmes,1985
+2416,2757,Back to School,Back to School,1986
+2417,11397,Heartburn,Heartburn,1986
+2418,15134,Nothing in Common,Nothing in Common,1986
+2419,4515,Extremities,Extremities,1986
+2420,16008,"Karate Kid, The",The Karate Kid,1984
+2421,4867,"Karate Kid, Part II, The",The Karate Kid Part II,1986
+2424,14574,You've Got Mail,You've Got Mail,1998
+2425,15009,"General, The",The General,1998
+2427,10392,"Thin Red Line, The",The Thin Red Line,1998
+2428,819,"Faculty, The",The Faculty,1998
+2429,9234,Mighty Joe Young,Mighty Joe Young,1998
+2431,4123,Patch Adams,Patch Adams,1998
+2432,9617,Stepmom,Stepmom,1998
+2433,9798,"Civil Action, A",A Civil Action,1998
+2434,5707,Down in the Delta,Down in the Delta,1998
+2435,10680,Hurlyburly,Hurlyburly,1998
+2436,6667,Tea with Mussolini,Tea with Mussolini,1999
+2437,15991,Wilde,Wilde,1997
+2440,931,Another Day in Paradise,Another Day in Paradise,1998
+2442,14475,Hilary and Jackie,Hilary and Jackie,1998
+2443,13829,Playing by Heart,Playing by Heart,1998
+2445,5625,At First Sight,At First Sight,1999
+2446,3321,In Dreams,In Dreams,1999
+2447,17513,Varsity Blues,Varsity Blues,1999
+2448,6585,Virus,Virus,1999
+2449,12314,"Garbage Pail Kids Movie, The",The Garbage Pail Kids Movie,1987
+2451,2937,"Gate, The",The Gate,1987
+2453,6177,"Boy Who Could Fly, The",The Boy Who Could Fly,1986
+2457,10935,Running Scared,Running Scared,1986
+2458,3816,Armed and Dangerous,Armed and Dangerous,1986
+2459,9368,"Texas Chainsaw Massacre, The",The Texas Chainsaw Massacre,1974
+2463,15445,Ruthless People,Ruthless People,1986
+2464,17673,Trick or Treat,Trick or Treat,1986
+2466,10891,Belizaire the Cajun,Belizaire the Cajun,1986
+2467,11674,"Name of the Rose, The",The Name of the Rose,1986
+2468,9359,Jumpin' Jack Flash,Jumpin' Jack Flash,1986
+2469,10013,Peggy Sue Got Married,Peggy Sue Got Married,1986
+2470,10344,Crocodile Dundee,Crocodile Dundee,1986
+2473,5499,Soul Man,Soul Man,1986
+2474,2139,"Color of Money, The",The Color of Money,1986
+2476,9074,Heartbreak Ridge,Heartbreak Ridge,1986
+2477,14066,Firewalker,Firewalker,1986
+2478,14960,Three Amigos!,Three Amigos,1986
+2479,5474,Gloria,Gloria,1999
+2482,9270,Still Crazy,Still Crazy,1998
+2485,15532,She's All That,She's All That,1999
+2488,14258,Peeping Tom,Peeping Tom,1960
+2490,12818,Payback,Payback,1999
+2491,6706,Simply Irresistible,Simply Irresistible,1999
+2493,5655,"Harmonists, The",The Harmonists,1997
+2496,16788,Blast from the Past,Blast from the Past,1999
+2497,2866,Message in a Bottle,Message in a Bottle,1999
+2500,16768,Jawbreaker,Jawbreaker,1999
+2501,12473,October Sky,October Sky,1999
+2502,13614,Office Space,Office Space,1999
+2504,3571,200 Cigarettes,200 Cigarettes,1999
+2505,9613,8MM,8MM,1999
+2506,5875,"Other Sister, The",The Other Sister,1999
+2507,17417,Breakfast of Champions,Breakfast of Champions,1999
+2508,11957,"Breaks, The",The Breaks,1999
+2510,6936,Just the Ticket,Just the Ticket,1999
+2511,17249,"Long Goodbye, The",The Long Goodbye,1973
+2513,14646,Pet Sematary,Pet Sematary,1989
+2518,7131,Night Shift,Night Shift,1982
+2519,10293,House on Haunted Hill,House on Haunted Hill,1958
+2520,9717,Airport,Airport,1970
+2523,10414,Rollercoaster,Rollercoaster,1977
+2524,10294,"Towering Inferno, The",The Towering Inferno,1974
+2526,9066,Meteor,Meteor,1979
+2527,3013,Westworld,Westworld,1973
+2528,818,Logan's Run,Logan's Run,1976
+2529,16325,Planet of the Apes,Planet of the Apes,1968
+2530,5253,Beneath the Planet of the Apes,Beneath the Planet of the Apes,1970
+2533,11937,Escape from the Planet of the Apes,Escape from the Planet of the Apes,1971
+2534,2545,Avalanche,Avalanche,1978
+2539,8651,Analyze This,Analyze This,1999
+2540,9112,"Corruptor, The",The Corruptor,1999
+2541,7828,Cruel Intentions,Cruel Intentions,1999
+2543,15734,Six Ways to Sunday,Six Ways to Sunday,1997
+2545,13086,Relax... It's Just Sex,Relax ... It's Just Sex,1998
+2546,9392,"Deep End of the Ocean, The",The Deep End of the Ocean,1999
+2548,1794,"Rage: Carrie 2, The",The Rage: Carrie 2,1999
+2549,16298,Wing Commander,Wing Commander,1999
+2550,10775,"Haunting, The",The Haunting,1963
+2551,733,Dead Ringers,Dead Ringers,1988
+2552,5858,My Boyfriend's Back,My Boyfriend's Back,1993
+2555,4587,Baby Geniuses,Baby Geniuses,1999
+2556,11031,Telling You,Telling You,1998
+2558,15813,Forces of Nature,Forces of Nature,1999
+2560,3481,Ravenous,Ravenous,1999
+2561,7892,True Crime,True Crime,1999
+2562,13540,Bandits,Bandits,1997
+2565,4135,"King and I, The",The King and I,1956
+2567,11639,EDtv,EDtv,1999
+2568,5366,"Mod Squad, The",The Mod Squad,1999
+2570,15039,"Walk on the Moon, A",A Walk on the Moon,1999
+2571,14691,"Matrix, The",The Matrix,1999
+2572,3463,10 Things I Hate About You,10 Things I Hate About You,1999
+2573,14178,Tango,Tango,1998
+2574,17280,"Out-of-Towners, The",The Out-of-Towners,1999
+2576,16646,"Love, etc.",Love Etc.,1996
+2579,17216,Following,Following,1998
+2580,7757,Go,Go,1999
+2581,13582,Never Been Kissed,Never Been Kissed,1999
+2584,12389,Foolish,Foolish,1999
+2586,6285,"Goodbye, Lover",Goodbye Lover,1999
+2587,4225,Life,Life,1999
+2589,8897,Friends & Lovers,Friends & Lovers,1999
+2597,4985,Lost & Found,Lost & Found,1999
+2598,12243,Pushing Tin,Pushing Tin,1999
+2599,8846,Election,Election,1999
+2600,2940,eXistenZ,Existenz,1999
+2604,13741,Let it Come Down: The Life of Paul Bowles,Let It Come Down: The Life of Paul Bowles,1998
+2605,6692,Entrapment,Entrapment,1999
+2606,13211,Idle Hands,Idle Hands,1999
+2608,5728,Heaven,Heaven,1998
+2612,11802,Mildred Pierce,Mildred Pierce,1945
+2615,3672,My Science Project,My Science Project,1985
+2616,8049,Dick Tracy,Dick Tracy,1990
+2617,985,"Mummy, The",The Mummy,1999
+2622,7221,"Midsummer Night's Dream, A",A Midsummer Night's Dream,1999
+2623,4113,Trippin',Trippin',1999
+2628,9886,Star Wars: Episode I - The Phantom Menace,Star Wars: Episode I: The Phantom Menace,1999
+2629,45,"Love Letter, The",The Love Letter,1999
+2633,12173,"Mummy, The",The Mummy,1932
+2634,12124,"Mummy, The",The Mummy,1959
+2639,5190,Mommie Dearest,Mommie Dearest,1981
+2641,12570,Superman II,Superman II,1980
+2642,15443,Superman III,Superman III,1983
+2643,3862,Superman IV: The Quest for Peace,Superman IV: The Quest for Peace,1987
+2644,3740,Dracula,Dracula,1931
+2647,9573,House of Frankenstein,House of Frankenstein,1944
+2652,2794,"Curse of Frankenstein, The",The Curse of Frankenstein,1957
+2657,2554,"Rocky Horror Picture Show, The",The Rocky Horror Picture Show,1975
+2660,2989,"Thing From Another World, The",The Thing From Another World,1951
+2662,10222,"War of the Worlds, The",The War of the Worlds,1953
+2663,5093,It Came from Beneath the Sea,It Came From Beneath the Sea,1955
+2664,2314,Invasion of the Body Snatchers,Invasion of the Body Snatchers,1956
+2665,1067,Earth Vs. the Flying Saucers,Earth vs. The Flying Saucers,1956
+2669,7141,Pork Chop Hill,Pork Chop Hill,1959
+2670,12218,"Run Silent, Run Deep","Run Silent, Run Deep",1958
+2671,15058,Notting Hill,Notting Hill,1999
+2672,11401,"Thirteenth Floor, The",The Thirteenth Floor,1999
+2674,6526,"Loss of Sexual Innocence, The",The Loss of Sexual Innocence,1999
+2675,6503,Twice Upon a Yesterday,Twice Upon a Yesterday,1998
+2676,11325,Instinct,Instinct,1999
+2677,5650,Buena Vista Social Club,Buena Vista Social Club,1999
+2680,13516,Floating,Floating,1997
+2682,8492,Limbo,Limbo,1999
+2683,14725,Austin Powers: The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,1999
+2684,10248,Taxman,Taxman,1999
+2687,9702,Tarzan,Tarzan,1999
+2688,13462,"General's Daughter, The",The General's Daughter,1999
+2689,14385,Get Bruce,Get Bruce!,1999
+2690,615,"Ideal Husband, An",An Ideal Husband,1999
+2694,15393,Big Daddy,Big Daddy,1999
+2699,2528,Arachnophobia,Arachnophobia,1990
+2700,14584,"South Park: Bigger, Longer and Uncut","South Park: Bigger, Longer and Uncut",1999
+2701,4670,Wild Wild West,Wild Wild West,1999
+2702,15803,Summer of Sam,Summer of Sam,1999
+2706,11337,American Pie,American Pie,1999
+2707,15674,Arlington Road,Arlington Road,1999
+2709,2804,Muppets From Space,Muppets From Space,1999
+2710,14755,"Blair Witch Project, The",The Blair Witch Project,1999
+2711,16926,My Life So Far,My Life So Far,1999
+2712,8016,Eyes Wide Shut,Eyes Wide Shut,1999
+2713,4685,Lake Placid,Lake Placid,1999
+2714,14634,"Wood, The",The Wood,1999
+2716,17560,Ghostbusters,Ghostbusters,1984
+2718,12549,Drop Dead Gorgeous,Drop Dead Gorgeous,1999
+2719,16169,"Haunting, The",The Haunting,1999
+2720,11254,Inspector Gadget,Inspector Gadget,1999
+2721,10608,Trick,Trick,1999
+2722,6687,Deep Blue Sea,Deep Blue Sea,1999
+2723,2163,Mystery Men,Mystery Men,1999
+2724,10359,Runaway Bride,Runaway Bride,1999
+2725,6953,Twin Falls Idaho,Twin Falls Idaho,1999
+2726,79,"Killing, The",The Killing,1956
+2727,6852,Killer's Kiss,Killer's Kiss,1955
+2728,16306,Spartacus,Spartacus,1960
+2729,17563,Lolita,Lolita,1962
+2730,14335,Barry Lyndon,Barry Lyndon,1975
+2734,13382,"Mosquito Coast, The",The Mosquito Coast,1986
+2735,4740,"Golden Child, The",The Golden Child,1986
+2736,16622,Brighton Beach Memoirs,Brighton Beach Memoirs,1986
+2737,16346,Assassination,Assassination,1987
+2738,12760,Crimes of the Heart,Crimes of the Heart,1986
+2741,13513,No Mercy,No Mercy,1986
+2744,13479,Otello,Otello,1986
+2746,6911,Little Shop of Horrors,Little Shop of Horrors,1986
+2749,6432,"Morning After, The",The Morning After,1986
+2750,16171,Radio Days,Radio Days,1987
+2751,2148,From the Hip,From the Hip,1987
+2752,1043,Outrageous Fortune,Outrageous Fortune,1987
+2753,7924,"Bedroom Window, The",The Bedroom Window,1987
+2757,2662,Frances,Frances,1982
+2758,2458,Plenty,Plenty,1985
+2759,17135,Dick,Dick,1999
+2762,4306,"Sixth Sense, The",The Sixth Sense,1999
+2763,14296,"Thomas Crown Affair, The",The Thomas Crown Affair,1999
+2764,2478,"Thomas Crown Affair, The",The Thomas Crown Affair,1968
+2770,14355,Bowfinger,Bowfinger,1999
+2771,11262,Brokedown Palace,Brokedown Palace,1999
+2772,7493,Detroit Rock City,Detroit Rock City,1999
+2774,9966,Better Than Chocolate,Better Than Chocolate,1999
+2778,10172,Never Talk to Strangers,Never Talk to Strangers,1995
+2779,12931,Heaven Can Wait,Heaven Can Wait,1978
+2781,5285,"Tingler, The",The Tingler,1959
+2785,1083,Tales of Terror,Tales of Terror,1962
+2786,10881,Haunted Honeymoon,Haunted Honeymoon,1986
+2789,3102,Damien: Omen II,Damien: Omen II,1978
+2791,11398,Airplane!,Airplane!,1980
+2792,189,Airplane II: The Sequel,Airplane II: The Sequel,1982
+2793,6013,"American Werewolf in Paris, An",An American Werewolf in Paris,1997
+2796,12913,Funny Farm,Funny Farm,1988
+2797,15755,Big,Big,1988
+2800,14025,Little Nemo: Adventures in Slumberland,Little Nemo: Adventures in Slumberland,1992
+2802,14973,Tequila Sunrise,Tequila Sunrise,1988
+2803,7155,"Pelican Brief, The",The Pelican Brief,1993
+2804,17187,"Christmas Story, A",A Christmas Story,1983
+2805,5415,Mickey Blue Eyes,Mickey Blue Eyes,1999
+2806,1200,Teaching Mrs. Tingle,Teaching Mrs. Tingle,1999
+2807,8987,Universal Soldier: The Return,Universal Soldier: The Return,1999
+2808,3835,Universal Soldier,Universal Soldier,1992
+2809,11537,Love Stinks,Love Stinks,1999
+2810,11295,Perfect Blue,Perfect Blue,1997
+2812,1160,In Too Deep,In Too Deep,1999
+2813,3486,"Source, The",The Source,1999
+2815,13772,Iron Eagle,Iron Eagle,1986
+2819,501,Three Days of the Condor,Three Days of the Condor,1975
+2820,1505,Hamlet,Hamlet,1964
+2821,5938,Male and Female,Male and Female,1919
+2822,5882,Medicine Man,Medicine Man,1992
+2824,17754,On the Ropes,On the Ropes,1999
+2826,9741,"13th Warrior, The",The 13th Warrior,1999
+2827,7739,"Astronaut's Wife, The",The Astronaut's Wife,1999
+2828,5130,Dudley Do-Right,Dudley Do-Right,1999
+2829,894,"Muse, The",The Muse,1999
+2831,1827,"Dog of Flanders, A",A Dog of Flanders,1999
+2832,14069,"Lost Son, The",The Lost Son,1999
+2835,15154,Chill Factor,Chill Factor,1999
+2836,5455,Outside Providence,Outside Providence,1999
+2840,10835,Stigmata,Stigmata,1999
+2841,11090,Stir of Echoes,Stir of Echoes,1999
+2842,5425,Best Laid Plans,Best Laid Plans,1999
+2844,17498,"Minus Man, The",The Minus Man,1999
+2847,11854,Only Angels Have Wings,Only Angels Have Wings,1939
+2848,3527,Othello,Othello,1952
+2849,15462,Queens Logic,Queens Logic,1991
+2852,10613,"Soldier's Story, A",A Soldier's Story,1984
+2854,2247,Don't Look in the Basement!,Don't Look in the Basement,1973
+2856,13859,I Saw What You Did,I Saw What You Did,1965
+2857,3935,Yellow Submarine,Yellow Submarine,1968
+2858,571,American Beauty,American Beauty,1999
+2860,13433,Blue Streak,Blue Streak,1999
+2861,14827,For Love of the Game,For Love of the Game,1999
+2862,6084,Caligula,Caligula,1980
+2864,12458,Splendor,Splendor,1999
+2866,8098,"Buddy Holly Story, The",The Buddy Holly Story,1978
+2867,2037,Fright Night,Fright Night,1985
+2868,12898,Fright Night Part II,Fright Night Part II,1989
+2870,11844,Barefoot in the Park,Barefoot in the Park,1967
+2871,9481,Deliverance,Deliverance,1972
+2872,15627,Excalibur,Excalibur,1981
+2873,5001,Lulu on the Bridge,Lulu on the Bridge,1998
+2874,13579,"Pajama Game, The",The Pajama Game,1957
+2875,5493,Sommersby,Sommersby,1993
+2876,9445,Thumbelina,Thumbelina,1994
+2877,5933,Tommy,Tommy,1975
+2881,12911,Double Jeopardy,Double Jeopardy,1999
+2882,6630,Jakob the Liar,Jakob the Liar,1999
+2883,524,Mumford,Mumford,1999
+2885,5344,Guinevere,Guinevere,1999
+2886,2791,"Adventures of Elmo in Grouchland, The",The Adventures of Elmo in Grouchland,1999
+2887,8817,Simon Sez,Simon Sez,1999
+2888,8316,Drive Me Crazy,Drive Me Crazy,1999
+2889,5087,"Mystery, Alaska","Mystery, Alaska",1999
+2890,15339,Three Kings,Three Kings,1999
+2891,16770,"Happy, Texas","Happy, Texas",1999
+2892,10108,New Rose Hotel,New Rose Hotel,1998
+2894,9331,Romance,Romance,1999
+2896,11355,Alvarez Kelly,Alvarez Kelly,1966
+2898,6918,"Dark Half, The",The Dark Half,1993
+2899,8361,Gulliver's Travels,Gulliver's Travels,1939
+2900,4117,Monkey Shines,Monkey Shines,1988
+2901,17262,Phantasm,Phantasm,1979
+2902,9639,Psycho II,Psycho II,1983
+2903,15797,Psycho III,Psycho III,1986
+2904,1124,Rain,Rain,1932
+2905,12942,Sanjuro,Sanjuro,1962
+2906,4012,Random Hearts,Random Hearts,1999
+2907,1502,Superstar,Superstar,1999
+2908,12500,Boys Don't Cry,Boys Don't Cry,1999
+2912,1408,"Limey, The",The Limey,1999
+2914,3882,Molly,Molly,1999
+2915,11209,Risky Business,Risky Business,1983
+2916,14109,Total Recall,Total Recall,1990
+2917,14624,Body Heat,Body Heat,1981
+2918,6971,Ferris Bueller's Day Off,Ferris Bueller's Day Off,1986
+2926,11702,Hairspray,Hairspray,1988
+2927,14372,Brief Encounter,Brief Encounter,1946
+2928,17420,"Razor's Edge, The",The Razor's Edge,1984
+2932,5402,Days of Heaven,Days of Heaven,1978
+2935,840,"Lady Eve, The",The Lady Eve,1941
+2936,2525,Sullivan's Travels,Sullivan's Travels,1942
+2937,5742,"Palm Beach Story, The",The Palm Beach Story,1942
+2939,7919,Niagara,Niagara,1953
+2940,6612,Gilda,Gilda,1946
+2941,8246,South Pacific,South Pacific,1958
+2942,9950,Flashdance,Flashdance,1983
+2943,734,Indochine,Indochine,1992
+2944,14978,"Dirty Dozen, The",The Dirty Dozen,1967
+2947,3684,Goldfinger,Goldfinger,1964
+2948,8717,From Russia with Love,From Russia With Love,1963
+2949,10491,Dr. No,Dr. No,1962
+2950,11485,"Blue Lagoon, The",The Blue Lagoon,1980
+2951,2456,"Fistful of Dollars, A",A Fistful of Dollars,1964
+2953,2400,Home Alone 2: Lost in New York,Home Alone 2: Lost in New York,1992
+2954,5566,Penitentiary,Penitentiary,1979
+2956,9511,Someone to Watch Over Me,Someone to Watch Over Me,1987
+2957,5133,Sparrows,Sparrows,1926
+2959,5926,Fight Club,Fight Club,1999
+2961,1955,"Story of Us, The",The Story of Us,1999
+2962,4354,Fever Pitch,Fever Pitch,1997
+2963,2510,Joe the King,Joe the King,1999
+2964,2684,Julien Donkey-Boy,Julien Donkey-Boy,1999
+2965,1573,"Omega Code, The",The Omega Code,1999
+2966,12668,"Straight Story, The",The Straight Story,1999
+2967,6098,"Bad Seed, The",The Bad Seed,1956
+2968,3489,Time Bandits,Time Bandits,1981
+2970,12578,Fitzcarraldo,Fitzcarraldo,1982
+2971,5947,All That Jazz,All That Jazz,1979
+2973,8960,Crimes and Misdemeanors,Crimes and Misdemeanors,1989
+2974,7602,Bats,Bats,1999
+2975,9224,"Best Man, The",The Best Man,1999
+2976,1394,Bringing Out the Dead,Bringing Out the Dead,1999
+2977,15101,Crazy in Alabama,Crazy in Alabama,1999
+2978,1862,Three to Tango,Three to Tango,1999
+2979,6264,Body Shots,Body Shots,1999
+2981,944,"Brother, Can You Spare a Dime?","Brother, Can You Spare a Dime?",1975
+2983,6532,"Ipcress File, The",The Ipcress File,1965
+2984,3062,On Any Sunday,On Any Sunday,1971
+2985,8881,Robocop,RoboCop,1987
+2986,10704,Robocop 2,RoboCop 2,1990
+2988,5576,Melvin and Howard,Melvin and Howard,1980
+2989,1148,For Your Eyes Only,For Your Eyes Only,1981
+2990,16952,Licence to Kill,Licence to Kill,1989
+2991,14439,Live and Let Die,Live and Let Die,1973
+2993,8682,Thunderball,Thunderball,1965
+2996,3826,Music of the Heart,Music of the Heart,1999
+2997,2122,Being John Malkovich,Being John Malkovich,1999
+2999,6779,Man of the Century,Man of the Century,1999
+3001,3772,"Suburbans, The",The Suburbans,1999
+3004,6302,"Bachelor, The",The Bachelor,1999
+3005,10378,"Bone Collector, The",The Bone Collector,1999
+3006,15381,"Insider, The",The Insider,1999
+3007,5516,American Movie,American Movie,1999
+3011,17597,"They Shoot Horses, Don't They?","They Shoot Horses, Don't They?",1969
+3012,6086,Battling Butler,Battling Butler,1926
+3013,12683,Bride of Re-Animator,Bride of Re-Animator,1990
+3014,10497,Bustin' Loose,Bustin' Loose,1981
+3015,10144,Coma,Coma,1978
+3016,859,Creepshow,Creepshow,1982
+3017,15647,Creepshow 2,Creepshow 2,1987
+3018,10944,Re-Animator,Re-Animator,1985
+3019,16068,Drugstore Cowboy,Drugstore Cowboy,1989
+3020,2851,Falling Down,Falling Down,1993
+3023,5378,My Best Girl,My Best Girl,1927
+3024,7628,Piranha,Piranha,1978
+3026,5915,Slaughterhouse,Slaughterhouse,1987
+3028,344,"Taming of the Shrew, The",The Taming of the Shrew,1967
+3029,125,Nighthawks,Nighthawks,1981
+3030,996,Yojimbo,Yojimbo,1961
+3031,5645,Repossessed,Repossessed,1990
+3032,16883,"Omega Man, The",The Omega Man,1971
+3033,5472,Spaceballs,Spaceballs,1987
+3035,4912,Mister Roberts,Mister Roberts,1955
+3037,14525,Little Big Man,Little Big Man,1970
+3038,14741,"Face in the Crowd, A",A Face in the Crowd,1957
+3039,5787,Trading Places,Trading Places,1983
+3044,5970,Dead Again,Dead Again,1991
+3050,5403,Light It Up,Light It Up,1999
+3051,7019,Anywhere But Here,Anywhere But Here,1999
+3052,329,Dogma,Dogma,1999
+3053,5462,"Messenger: The Story of Joan of Arc, The",The Messenger: The Story of Joan of Arc,1999
+3055,8377,Felicia's Journey,Felicia's Journey,1999
+3060,2955,"Commitments, The",The Commitments,1991
+3062,3269,"Longest Day, The",The Longest Day,1962
+3063,13974,Poison Ivy,Poison Ivy,1992
+3066,6775,Tora! Tora! Tora!,Tora! Tora! Tora!,1970
+3068,12593,"Verdict, The",The Verdict,1982
+3071,5922,Stand and Deliver,Stand and Deliver,1987
+3072,2953,Moonstruck,Moonstruck,1987
+3074,8586,Jeremiah Johnson,Jeremiah Johnson,1972
+3075,7387,Repulsion,Repulsion,1965
+3076,14685,Irma la Douce,Irma La Douce,1963
+3077,16907,42 Up,42 Up,1998
+3078,16149,Liberty Heights,Liberty Heights,1999
+3079,843,Mansfield Park,Mansfield Park,1999
+3081,4262,Sleepy Hollow,Sleepy Hollow,1999
+3082,8512,"World Is Not Enough, The",The World Is Not Enough,1999
+3087,10830,Scrooged,Scrooged,1988
+3088,8976,Harvey,Harvey,1950
+3090,646,Matewan,Matewan,1987
+3091,16947,Kagemusha,Kagemusha,1980
+3092,6028,Chushingura,Chushingura,1962
+3093,12442,McCabe & Mrs. Miller,McCabe & Mrs. Miller,1971
+3094,13139,Maurice,Maurice,1987
+3095,9625,"Grapes of Wrath, The",The Grapes of Wrath,1940
+3097,1627,"Shop Around the Corner, The",The Shop Around the Corner,1940
+3098,9378,"Natural, The",The Natural,1984
+3099,5629,Shampoo,Shampoo,1975
+3100,17709,"River Runs Through It, A",A River Runs Through It,1992
+3101,7590,Fatal Attraction,Fatal Attraction,1987
+3102,6500,Jagged Edge,Jagged Edge,1985
+3103,15387,Stanley & Iris,Stanley & Iris,1990
+3104,10126,Midnight Run,Midnight Run,1988
+3105,6240,Awakenings,Awakenings,1990
+3107,13058,Backdraft,Backdraft,1991
+3108,8784,"Fisher King, The",The Fisher King,1991
+3109,17357,"River, The",The River,1984
+3110,9638,Country,Country,1984
+3111,11038,Places in the Heart,Places in the Heart,1984
+3113,3936,End of Days,End of Days,1999
+3114,14571,Toy Story 2,Toy Story 2,1999
+3115,11614,Flawless,Flawless,1999
+3116,10034,Miss Julie,Miss Julie,1999
+3117,1432,Ride with the Devil,Ride with the Devil,1999
+3118,12837,Tumbleweeds,Tumbleweeds,1999
+3120,10848,"Distinguished Gentleman, The",The Distinguished Gentleman,1992
+3121,7784,"Hitch-Hiker, The",The Hitch-Hiker,1953
+3122,910,Santa Fe Trail,Santa Fe Trail,1940
+3124,1297,Agnes Browne,Agnes Browne,1999
+3125,12322,"End of the Affair, The",The End of the Affair,1999
+3126,8135,"End of the Affair, The",The End of the Affair,1955
+3128,11697,"Map of the World, A",A Map of the World,1999
+3129,16869,Sweet and Lowdown,Sweet and Lowdown,1999
+3131,16011,Broadway Damage,Broadway Damage,1997
+3132,5399,Daddy Long Legs,Daddy Long Legs,1919
+3133,3906,Go West,Go West,1925
+3135,8536,"Great Santini, The",The Great Santini,1979
+3138,5521,Stealing Home,Stealing Home,1988
+3141,4438,"Two Jakes, The",The Two Jakes,1990
+3142,16376,U2: Rattle and Hum,U2: Rattle and Hum,1988
+3143,6132,Hell in the Pacific,Hell in the Pacific,1968
+3144,2048,"Glass Bottom Boat, The",The Glass Bottom Boat,1966
+3146,4661,Deuce Bigalow: Male Gigolo,Deuce Bigalow: Male Gigolo,1999
+3147,16377,"Green Mile, The",The Green Mile,1999
+3148,11198,"Cider House Rules, The",The Cider House Rules,1999
+3149,2746,Diamonds,Diamonds,1999
+3150,2492,"War Zone, The",The War Zone,1999
+3152,11141,"Last Picture Show, The",The Last Picture Show,1971
+3153,15979,"7th Voyage of Sinbad, The",The 7th Voyage of Sinbad,1958
+3154,9017,Blood on the Sun,Blood on the Sun,1945
+3155,5391,Anna and the King,Anna and the King,1999
+3156,13056,Bicentennial Man,Bicentennial Man,1999
+3157,4906,Stuart Little,Stuart Little,1999
+3160,16740,Magnolia,Magnolia,1999
+3161,6542,Onegin,Onegin,1999
+3162,2006,Simpatico,Simpatico,1999
+3165,5971,Boiling Point,Boiling Point,1993
+3167,12466,Carnal Knowledge,Carnal Knowledge,1971
+3168,15496,Easy Rider,Easy Rider,1969
+3171,5117,Room at the Top,Room at the Top,1959
+3173,14507,Any Given Sunday,Any Given Sunday,1999
+3175,11696,Galaxy Quest,Galaxy Quest,1999
+3176,2009,"Talented Mr. Ripley, The",The Talented Mr. Ripley,1999
+3178,2192,"Hurricane, The",The Hurricane,1999
+3179,10094,Angela's Ashes,Angela's Ashes,1999
+3181,16616,Titus,Titus,1999
+3182,15747,Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.,Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.,1999
+3183,10713,"Third Miracle, The",The Third Miracle,1999
+3184,17051,Montana,Montana,1998
+3185,6637,Snow Falling on Cedars,Snow Falling on Cedars,1999
+3186,5223,"Girl, Interrupted","Girl, Interrupted",1999
+3187,13849,Trans,Trans,1998
+3188,1413,"Life and Times of Hank Greenberg, The",The Life and Times of Hank Greenberg,1998
+3190,10165,Supernova,Supernova,2000
+3191,11657,"Quarry, The",The Quarry,1998
+3193,17344,Creature,Creature,1999
+3194,3071,"Way We Were, The",The Way We Were,1973
+3196,10433,Stalag 17,Stalag 17,1953
+3197,11909,"Presidio, The",The Presidio,1988
+3198,10162,Papillon,Papillon,1973
+3200,4594,"Last Detail, The",The Last Detail,1973
+3201,7127,Five Easy Pieces,Five Easy Pieces,1970
+3203,8020,Dead Calm,Dead Calm,1989
+3204,7419,"Boys from Brazil, The",The Boys from Brazil,1978
+3206,4943,Against All Odds,Against All Odds,1984
+3207,11889,"Snows of Kilimanjaro, The",The Snows of Kilimanjaro,1952
+3210,13636,Fast Times at Ridgemont High,Fast Times at Ridgemont High,1982
+3211,9098,"Cry in the Dark, A",A Cry in the Dark,1988
+3213,3495,Batman: Mask of the Phantasm,Batman: Mask of the Phantasm,1993
+3214,14886,American Flyers,American Flyers,1985
+3217,5355,"Star Is Born, A",A Star Is Born,1937
+3218,2028,Poison,Poison,1991
+3219,9240,Pacific Heights,Pacific Heights,1990
+3221,15066,"Draughtsman's Contract, The",The Draughtsman's Contract,1982
+3223,6020,"Zed & Two Noughts, A",A Zed & Two Noughts,1985
+3225,6910,Down to You,Down to You,2000
+3229,14450,Another Man's Poison,Another Man's Poison,1952
+3230,12598,"Odessa File, The",The Odessa File,1974
+3235,14175,Where the Buffalo Roam,Where the Buffalo Roam,1980
+3239,7651,Isn't She Great?,Isn't She Great,2000
+3240,2749,"Big Tease, The",The Big Tease,1999
+3243,3670,Encino Man,Encino Man,1992
+3244,6960,"Goodbye Girl, The",The Goodbye Girl,1977
+3246,17319,Malcolm X,Malcolm X,1992
+3247,6386,Sister Act,Sister Act,1992
+3248,3418,Sister Act 2: Back in the Habit,Sister Act 2: Back in the Habit,1993
+3249,692,"Hand That Rocks the Cradle, The",The Hand that Rocks the Cradle,1992
+3250,11752,Alive,Alive,1993
+3251,11918,Agnes of God,Agnes of God,1985
+3252,5775,Scent of a Woman,Scent of a Woman,1992
+3253,2470,Wayne's World,Wayne's World,1992
+3254,16203,Wayne's World 2,Wayne's World 2,1993
+3255,11490,"League of Their Own, A",A League of Their Own,1992
+3256,5293,Patriot Games,Patriot Games,1992
+3257,4883,"Bodyguard, The",The Bodyguard,1992
+3258,3617,Death Becomes Her,Death Becomes Her,1992
+3259,11186,Far and Away,Far and Away,1992
+3260,15530,Howards End,Howards End,1992
+3261,7895,Singles,Singles,1992
+3262,9774,Twin Peaks: Fire Walk with Me,Twin Peaks: Fire Walk With Me,1992
+3263,12015,White Men Can't Jump,White Men Can't Jump,1992
+3268,13607,Stop! Or My Mom Will Shoot,Stop! Or My Mom Will Shoot,1992
+3269,3433,Forever Young,Forever Young,1992
+3270,2389,"Cutting Edge, The",The Cutting Edge,1992
+3271,7696,Of Mice and Men,Of Mice And Men,1992
+3272,7308,Bad Lieutenant,Bad Lieutenant,1992
+3273,2376,Scream 3,Scream 3,2000
+3274,6574,Single White Female,Single White Female,1992
+3275,12838,"Boondock Saints, The",The Boondock Saints,1999
+3276,3557,Gun Shy,Gun Shy,2000
+3280,15074,"Baby, The",The Baby,1973
+3281,7776,"Brandon Teena Story, The",The Brandon Teena Story,1998
+3282,14336,Different for Girls,Different for Girls,1996
+3284,4296,They Might Be Giants,They Might Be Giants,1971
+3285,17100,"Beach, The",The Beach,2000
+3286,6188,Snow Day,Snow Day,2000
+3287,16931,"Tigger Movie, The",The Tigger Movie,2000
+3288,14769,Cotton Mary,Cotton Mary,1999
+3291,17294,Trois,Trois,2000
+3293,16989,Conceiving Ada,Conceiving Ada,1997
+3295,3832,Raining Stones,Raining Stones,1993
+3298,11875,Boiler Room,Boiler Room,2000
+3299,5617,Hanging Up,Hanging Up,2000
+3300,14209,Pitch Black,Pitch Black,2000
+3301,6994,"Whole Nine Yards, The",The Whole Nine Yards,2000
+3302,3134,Beautiful People,Beautiful People,1999
+3305,16156,Bluebeard,Bluebeard,1944
+3306,10439,"Circus, The",The Circus,1928
+3307,471,City Lights,City Lights,1931
+3308,8254,"Flamingo Kid, The",The Flamingo Kid,1984
+3310,11825,"Kid, The",The Kid,1921
+3311,16044,"Man from Laramie, The",The Man from Laramie,1955
+3314,13454,"Big Trees, The",The Big Trees,1952
+3315,8236,Happy Go Lovely,Happy Go Lovely,1951
+3316,3350,Reindeer Games,Reindeer Games,2000
+3317,4488,Wonder Boys,Wonder Boys,2000
+3319,3215,Judy Berlin,Judy Berlin,1999
+3322,4674,3 Strikes,3 Strikes,2000
+3323,123,Chain of Fools,Chain of Fools,2000
+3324,5220,Drowning Mona,Drowning Mona,2000
+3325,11161,"Next Best Thing, The",The Next Best Thing,2000
+3326,13644,What Planet Are You From?,What Planet Are You From?,2000
+3330,1959,Splendor in the Grass,Splendor in the Grass,1961
+3331,4103,My Tutor,My Tutor,1983
+3333,6052,"Killing of Sister George, The",The Killing of Sister George,1968
+3334,9954,Key Largo,Key Largo,1948
+3335,10969,Jail Bait,Jail Bait,1954
+3338,13366,For All Mankind,For All Mankind,1989
+3339,4244,Cross of Iron,Cross of Iron,1977
+3340,2511,Bride of the Monster,Bride of the Monster,1956
+3341,13230,Born Yesterday,Born Yesterday,1950
+3342,3095,Birdy,Birdy,1984
+3344,17345,Blood Feast,Blood Feast,1963
+3345,3279,"Charlie, the Lonesome Cougar",Charlie the Lonesome Cougar,1967
+3346,15593,Color Me Blood Red,Color Me Blood Red,1965
+3347,15335,Never Cry Wolf,Never Cry Wolf,1983
+3348,2238,"Night Visitor, The",The Night Visitor,1970
+3349,16474,"Perils of Pauline, The",The Perils of Pauline,1947
+3350,15846,"Raisin in the Sun, A",A Raisin in the Sun,1961
+3351,2650,Two Thousand Maniacs!,Two Thousand Maniacs,1964
+3354,5434,Mission to Mars,Mission to Mars,2000
+3358,1673,Defending Your Life,Defending Your Life,1991
+3359,16495,Breaking Away,Breaking Away,1979
+3360,8531,Hoosiers,Hoosiers,1986
+3361,13534,Bull Durham,Bull Durham,1988
+3362,13007,Dog Day Afternoon,Dog Day Afternoon,1975
+3364,1840,"Asphalt Jungle, The",The Asphalt Jungle,1950
+3367,173,"Devil's Brigade, The",The Devil's Brigade,1968
+3368,12849,"Big Country, The",The Big Country,1958
+3370,2198,Betrayed,Betrayed,1988
+3371,16421,Bound for Glory,Bound for Glory,1976
+3372,8505,"Bridge at Remagen, The",The Bridge at Remagen,1969
+3373,17459,Buck and the Preacher,Buck and the Preacher,1972
+3375,1240,Destination Moon,Destination Moon,1950
+3377,1909,Hangmen Also Die,Hangmen Also Die,1943
+3379,3984,On the Beach,On the Beach,1959
+3380,15261,Railroaded!,Railroaded,1947
+3384,6912,"Taking of Pelham One Two Three, The",The Taking of Pelham One Two Three,1974
+3385,8623,Volunteers,Volunteers,1985
+3387,10012,Who's Harry Crumb?,Who's Harry Crumb?,1989
+3390,3667,Shanghai Surprise,Shanghai Surprise,1986
+3392,5235,She-Devil,She Devil,1989
+3393,11103,Date with an Angel,Date With an Angel,1987
+3394,15901,Blind Date,Blind Date,1987
+3395,9369,Nadine,Nadine,1987
+3396,16567,"Muppet Movie, The",The Muppet Movie,1979
+3397,12869,"Great Muppet Caper, The",The Great Muppet Caper,1981
+3398,10420,"Muppets Take Manhattan, The",The Muppets Take Manhattan,1984
+3401,1318,Baby... Secret of the Lost Legend,Baby: Secret of the Lost Legend,1985
+3404,3124,Titanic,Titanic,1953
+3405,14281,"Night to Remember, A",A Night to Remember,1958
+3408,4656,Erin Brockovich,Erin Brockovich,2000
+3409,11663,Final Destination,Final Destination,2000
+3412,9590,"Bear, The",The Bear,1988
+3413,15537,Impact,Impact,1949
+3414,7986,Love Is a Many-Splendored Thing,Love Is a Many-Splendored Thing,1955
+3417,14419,"Crimson Pirate, The",The Crimson Pirate,1952
+3420,7756,...And Justice for All,...And Justice for All,1979
+3423,7673,School Daze,School Daze,1988
+3424,7173,Do the Right Thing,Do the Right Thing,1989
+3425,5351,Mo' Better Blues,Mo' Better Blues,1990
+3426,3515,Jungle Fever,Jungle Fever,1991
+3427,6634,Coogan's Bluff,Coogan's Bluff,1968
+3428,17401,"Champ, The",The Champ,1979
+3429,14747,Creature Comforts,Creature Comforts,1990
+3430,1853,Death Wish,Death Wish,1974
+3432,8630,Death Wish 3,Death Wish 3,1985
+3433,10302,Death Wish 4: The Crackdown,Death Wish 4: The Crackdown,1987
+3436,7631,Dying Young,Dying Young,1991
+3439,10033,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991
+3440,4136,Teenage Mutant Ninja Turtles III,Teenage Mutant Ninja Turtles III,1993
+3441,6133,Red Dawn,Red Dawn,1984
+3442,8578,Band of the Hand,Band of the Hand,1986
+3444,7125,Bloodsport,Bloodsport,1988
+3445,8793,Eyes of Laura Mars,Eyes of Laura Mars,1978
+3446,12163,Funny Bones,Funny Bones,1995
+3448,6408,"Good Morning, Vietnam","Good Morning, Vietnam",1987
+3449,9272,"Good Mother, The",The Good Mother,1988
+3450,1659,Grumpy Old Men,Grumpy Old Men,1993
+3451,14702,Guess Who's Coming to Dinner,Guess Who's Coming to Dinner,1967
+3452,5243,Romeo Must Die,Romeo Must Die,2000
+3453,1976,Here on Earth,Here on Earth,2000
+3454,6842,Whatever It Takes,Whatever It Takes,2000
+3457,7275,Waking the Dead,Waking the Dead,1999
+3461,7436,Lord of the Flies,Lord of the Flies,1963
+3462,1708,Modern Times,Modern Times,1936
+3466,6263,Heart and Souls,Heart and Souls,1993
+3467,16847,Hud,Hud,1963
+3468,2848,"Hustler, The",The Hustler,1961
+3469,7942,Inherit the Wind,Inherit the Wind,1960
+3471,15702,Close Encounters of the Third Kind,Close Encounters of the Third Kind,1977
+3474,3490,Retroactive,Retroactive,1997
+3475,13934,"Place in the Sun, A",A Place in the Sun,1951
+3476,14250,Jacob's Ladder,Jacob's Ladder,1990
+3479,5562,Ladyhawke,Ladyhawke,1985
+3480,6524,Lucas,Lucas,1986
+3481,312,High Fidelity,High Fidelity,2000
+3482,13472,Price of Glory,Price of Glory,2000
+3483,8277,"Road to El Dorado, The",The Road to El Dorado,2000
+3484,15549,"Skulls, The",The Skulls,2000
+3486,2125,Devil Girl From Mars,Devil Girl from Mars,1954
+3488,14332,"Hideous Sun Demon, The",The Hideous Sun Demon,1959
+3489,1406,Hook,Hook,1991
+3490,4292,Horror Express,Horror Express,1972
+3491,7247,My Chauffeur,My Chauffeur,1986
+3494,11227,True Grit,True Grit,1969
+3497,9230,Max Dugan Returns,Max Dugan Returns,1983
+3498,5845,Midnight Express,Midnight Express,1978
+3499,14218,Misery,Misery,1990
+3500,7450,Mr. Saturday Night,Mr. Saturday Night,1992
+3501,3082,Murphy's Romance,Murphy's Romance,1985
+3502,14593,My Life,My Life,1993
+3504,4364,Network,Network,1976
+3505,1425,No Way Out,No Way Out,1987
+3506,17264,North Dallas Forty,North Dallas Forty,1979
+3507,3544,"Odd Couple, The",The Odd Couple,1968
+3508,17424,"Outlaw Josey Wales, The",The Outlaw Josey Wales,1976
+3509,3657,Black and White,Black and White,1999
+3510,11279,Frequency,Frequency,2000
+3511,11309,Ready to Rumble,Ready to Rumble,2000
+3512,16158,Return to Me,Return to Me,2000
+3513,11315,Rules of Engagement,Rules of Engagement,2000
+3514,10657,Joe Gould's Secret,Joe Gould's Secret,2000
+3515,4460,Me Myself I,Me Myself I,2000
+3516,16861,"Bell, Book and Candle","Bell, Book and Candle",1958
+3518,11547,"End of Violence, The",The End of Violence,1997
+3519,6641,Force 10 from Navarone,Force 10 from Navarone,1978
+3520,2693,How to Stuff a Wild Bikini,How to Stuff a Wild Bikini,1965
+3521,15378,Mystery Train,Mystery Train,1989
+3524,9043,Arthur,Arthur,1981
+3525,17537,Bachelor Party,Bachelor Party,1984
+3526,269,Parenthood,Parenthood,1989
+3528,4157,"Prince of Tides, The",The Prince of Tides,1991
+3529,8463,"Postman Always Rings Twice, The",The Postman Always Rings Twice,1981
+3531,10210,All the Vermeers in New York,All the Vermeers in New York,1990
+3534,9685,28 Days,28 Days,2000
+3535,4109,American Psycho,American Psycho,2000
+3536,10889,Keeping the Faith,Keeping the Faith,2000
+3537,7383,Where the Money Is,Where the Money Is,2000
+3538,7533,East is East,East Is East,1999
+3542,14523,Coming Apart,Coming Apart,1969
+3543,7647,Diner,Diner,1982
+3545,11907,Cabaret,Cabaret,1972
+3547,3116,Prick Up Your Ears,Prick Up Your Ears,1987
+3548,10426,Auntie Mame,Auntie Mame,1958
+3549,8293,Guys and Dolls,Guys and Dolls,1955
+3550,3159,"Hunger, The",The Hunger,1983
+3551,1370,Marathon Man,Marathon Man,1976
+3552,9051,Caddyshack,Caddyshack,1980
+3553,10419,Gossip,Gossip,2000
+3555,10785,U-571,U-571,2000
+3556,13981,"Virgin Suicides, The",The Virgin Suicides,1999
+3557,4568,Jennifer 8,Jennifer 8,1992
+3559,12711,Limelight,Limelight,1952
+3562,9435,Committed,Committed,2000
+3563,17320,"Crow: Salvation, The",The Crow: Salvation,2000
+3564,362,"Flintstones in Viva Rock Vegas, The",The Flintstones in Viva Rock Vegas,2000
+3565,8339,Where the Heart Is,Where the Heart Is,2000
+3566,7886,"Big Kahuna, The",The Big Kahuna,2000
+3568,12877,Smiling Fish and Goat on Fire,Smiling Fish and Goat on Fire,1999
+3570,12485,"Last September, The",The Last September,1999
+3571,12543,Time Code,Time Code,2000
+3572,12749,Carnosaur,Carnosaur,1993
+3575,6194,Defying Gravity,Defying Gravity,1997
+3576,11865,"Hidden, The",The Hidden,1987
+3578,13728,Gladiator,Gladiator,2000
+3579,14164,I Dreamed of Africa,I Dreamed of Africa,2000
+3580,4442,Up at the Villa,Up at the Villa,2000
+3584,2316,Breathless,Breathless,1983
+3585,3292,"Great Locomotive Chase, The",The Great Locomotive Chase,1956
+3586,7616,"Idolmaker, The",The Idolmaker,1980
+3588,10438,"King of Marvin Gardens, The",The King of Marvin Gardens,1972
+3590,10066,"Lords of Flatbush, The",The Lords of Flatbush,1974
+3591,13217,Mr. Mom,Mr. Mom,1983
+3593,12171,Battlefield Earth,Battlefield Earth,2000
+3595,8853,Held Up,Held Up,2000
+3596,15224,Screwed,Screwed,2000
+3597,4482,Whipped,Whipped,2000
+3598,903,Hamlet,Hamlet,2000
+3599,17468,Anchors Aweigh,Anchors Aweigh,1945
+3600,2834,Blue Hawaii,Blue Hawaii,1961
+3602,14788,G. I. Blues,G.I. Blues,1960
+3603,15884,"Gay Deceivers, The",The Gay Deceivers,1969
+3604,10678,Gypsy,Gypsy,1962
+3605,5215,King Creole,King Creole,1958
+3606,13441,On the Town,On the Town,1949
+3607,15169,One Little Indian,One Little Indian,1973
+3608,8619,Pee-wee's Big Adventure,Pee-Wee's Big Adventure,1985
+3610,17605,Roustabout,Roustabout,1964
+3611,271,Saludos Amigos,Saludos Amigos,1943
+3612,1101,"Slipper and the Rose, The",The Slipper and the Rose,1976
+3614,5906,Honeymoon in Vegas,Honeymoon in Vegas,1992
+3615,4100,Dinosaur,Dinosaur,2000
+3616,10505,Loser,Loser,2000
+3617,10436,Road Trip,Road Trip,2000
+3618,2423,Small Time Crooks,Small Time Crooks,2000
+3619,1802,"Hollywood Knights, The",The Hollywood Knights,1980
+3620,10711,"Myth of Fingerprints, The",The Myth of Fingerprints,1997
+3624,4141,Shanghai Noon,Shanghai Noon,2000
+3626,12730,8 1/2 Women,8 1/2 Women,1999
+3627,5735,Carnival of Souls,Carnival of Souls,1962
+3629,5963,"Gold Rush, The",The Gold Rush,1925
+3631,13871,It's in the Water,It's in the Water,1998
+3632,9958,Monsieur Verdoux,Monsieur Verdoux,1947
+3634,9964,Seven Days in May,Seven Days in May,1964
+3635,17346,"Spy Who Loved Me, The",The Spy Who Loved Me,1977
+3639,11613,"Man with the Golden Gun, The",The Man with the Golden Gun,1974
+3642,13587,In Old California,In Old California,1942
+3643,3701,"Fighting Seabees, The",The Fighting Seabees,1944
+3644,16843,Dark Command,Dark Command,1940
+3646,6347,Big Momma's House,Big Momma's House,2000
+3647,14347,Running Free,Running Free,2000
+3648,7261,"Abominable Snowman, The",The Abominable Snowman,1957
+3649,16534,American Gigolo,American Gigolo,1980
+3653,7599,"Endless Summer, The",The Endless Summer,1966
+3654,8526,"Guns of Navarone, The",The Guns of Navarone,1961
+3656,8910,Lured,Lured,1947
+3657,2121,Pandora and the Flying Dutchman,Pandora and the Flying Dutchman,1951
+3665,6130,Curse of the Puppet Master,Curse of the Puppet Master,1998
+3667,11718,Rent-A-Cop,Rent-A-Cop,1988
+3669,10040,Stay Tuned,Stay Tuned,1992
+3670,1241,"Story of G.I. Joe, The",The Story of G.I. Joe,1945
+3671,13302,Blazing Saddles,Blazing Saddles,1974
+3674,3065,For the Love of Benji,For the Love of Benji,1977
+3675,14483,White Christmas,White Christmas,1954
+3676,12130,Eraserhead,Eraserhead,1977
+3677,16687,Baraka,Baraka,1992
+3681,9330,For a Few Dollars More,For a Few Dollars More,1965
+3682,17472,Magnum Force,Magnum Force,1973
+3683,7336,Blood Simple,Blood Simple,1984
+3684,3047,"Fabulous Baker Boys, The",The Fabulous Baker Boys,1989
+3685,11846,Prizzi's Honor,Prizzi's Honor,1985
+3686,3782,Flatliners,Flatliners,1990
+3688,4369,Porky's,Porky's,1981
+3692,11070,Class of Nuke 'Em High,Class of Nuke 'Em High,1986
+3693,2266,"Toxic Avenger, The",The Toxic Avenger,1985
+3697,564,Predator 2,Predator 2,1990
+3698,15671,"Running Man, The",The Running Man,1987
+3699,3128,Starman,Starman,1984
+3701,15885,Alien Nation,Alien Nation,1988
+3702,8585,Mad Max,Mad Max,1979
+3704,10236,Mad Max Beyond Thunderdome,Mad Max Beyond Thunderdome,1985
+3705,10872,Bird on a Wire,Bird on a Wire,1990
+3708,629,Firestarter,Firestarter,1984
+3709,14870,Sleepwalkers,Sleepwalkers,1992
+3710,3295,Action Jackson,Action Jackson,1988
+3711,15516,Sarafina!,Sarafina!,1992
+3712,8898,Soapdish,Soapdish,1991
+3713,4060,"Long Walk Home, The",The Long Walk Home,1990
+3715,15741,Burglar,Burglar,1987
+3716,127,Fatal Beauty,Fatal Beauty,1987
+3717,4996,Gone in 60 Seconds,Gone in 60 Seconds,2000
+3719,17153,Love's Labour's Lost,Love's Labour's Lost,2000
+3720,2103,Sunshine,Sunshine,1999
+3724,11042,Coming Home,Coming Home,1978
+3725,785,American Pop,American Pop,1981
+3726,13135,Assault on Precinct 13,Assault on Precinct 13,1976
+3727,14931,Near Dark,Near Dark,1987
+3728,3975,One False Move,One False Move,1991
+3729,17248,Shaft,Shaft,1971
+3730,8131,"Conversation, The",The Conversation,1974
+3731,13751,Cutter's Way,Cutter's Way,1981
+3732,16601,"Fury, The",The Fury,1978
+3733,4565,"Paper Chase, The",The Paper Chase,1973
+3735,8883,Serpico,Serpico,1973
+3738,14629,"Sugarland Express, The",The Sugarland Express,1974
+3739,10476,Trouble in Paradise,Trouble in Paradise,1932
+3740,12843,Big Trouble in Little China,Big Trouble in Little China,1986
+3741,11935,Badlands,Badlands,1973
+3743,3743,Boys and Girls,Boys and Girls,2000
+3744,9621,Shaft,Shaft,2000
+3745,4418,Titan A.E.,Titan A.E.,2000
+3751,16912,Chicken Run,Chicken Run,2000
+3753,14313,"Patriot, The",The Patriot,2000
+3754,2356,"Adventures of Rocky and Bullwinkle, The",The Adventures of Rocky and Bullwinkle,2000
+3755,708,"Perfect Storm, The",The Perfect Storm,2000
+3756,12456,"Golden Bowl, The",The Golden Bowl,2000
+3758,16806,Communion,Communion,1989
+3759,8308,Fun and Fancy Free,Fun and Fancy Free,1947
+3763,17494,F/X,F/X,1986
+3765,4966,"Hot Spot, The",The Hot Spot,1990
+3766,15285,Missing in Action,Missing in Action,1984
+3769,5468,Thunderbolt and Lightfoot,Thunderbolt and Lightfoot,1974
+3771,16329,"Golden Voyage of Sinbad, The",The Golden Voyage of Sinbad,1974
+3773,8839,House Party,House Party,1990
+3775,3248,Make Mine Music,Make Mine Music,1946
+3776,4607,Melody Time,Melody Time,1948
+3777,3109,Nekromantik,Nekromantik,1987
+3778,4603,On Our Merry Way,On Our Merry Way,1948
+3780,13562,Rocketship X-M,Rocketship X-M,1950
+3781,17596,Shaft in Africa,Shaft in Africa,1973
+3782,632,Shaft's Big Score!,Shaft's Big Score!,1972
+3783,2905,Croupier,Croupier,1998
+3784,12430,"Kid, The",The Kid,2000
+3785,7521,Scary Movie,Scary Movie,2000
+3786,4586,But I'm a Cheerleader,But I'm a Cheerleader,1999
+3789,6610,"Pawnbroker, The",The Pawnbroker,1965
+3790,14539,Groove,Groove,2000
+3792,12651,Duel in the Sun,Duel in the Sun,1946
+3793,12785,X-Men,X-Men,2000
+3794,4886,Chuck & Buck,Chuck & Buck,2000
+3795,2884,"Five Senses, The",The Five Senses,1999
+3797,13155,"In Crowd, The",The In Crowd,2000
+3798,5112,What Lies Beneath,What Lies Beneath,2000
+3801,9611,Anatomy of a Murder,Anatomy of a Murder,1959
+3803,1385,Greaser's Palace,Greaser's Palace,1972
+3804,15525,H.O.T.S.,H.O.T.S.,1979
+3805,3002,Knightriders,Knightriders,1981
+3806,4690,MacKenna's Gold,Mackenna's Gold,1969
+3807,11890,Sinbad and the Eye of the Tiger,Sinbad and the Eye of the Tiger,1977
+3809,15342,What About Bob?,What About Bob?,1991
+3810,13352,White Sands,White Sands,1992
+3813,17763,Interiors,Interiors,1978
+3814,16903,Love and Death,Love and Death,1975
+3818,12451,Pot O' Gold,Pot o' Gold,1941
+3819,3439,Tampopo,Tampopo,1986
+3820,12083,Thomas and the Magic Railroad,Thomas and the Magic Railroad,2000
+3824,9080,Autumn in New York,Autumn in New York,2000
+3825,13102,Coyote Ugly,Coyote Ugly,2000
+3826,1975,Hollow Man,Hollow Man,2000
+3827,6449,Space Cowboys,Space Cowboys,2000
+3830,3336,Psycho Beach Party,Psycho Beach Party,2000
+3831,660,Saving Grace,Saving Grace,2000
+3834,9058,Bronco Billy,Bronco Billy,1980
+3835,14265,"Crush, The",The Crush,1993
+3836,10159,Kelly's Heroes,Kelly's Heroes,1970
+3839,9304,Phantasm IV: Oblivion,Phantasm IV: Oblivion,1998
+3840,16630,Pumpkinhead,Pumpkinhead,1988
+3841,9131,Air America,Air America,1990
+3843,4097,Sleepaway Camp,Sleepaway Camp,1983
+3844,4577,Steel Magnolias,Steel Magnolias,1989
+3846,16629,Easy Money,Easy Money,1983
+3847,16316,"Ilsa, She Wolf of the SS","Ilsa, She Wolf of the SS",1974
+3848,15738,Silent Fall,Silent Fall,1994
+3849,13099,"Spiral Staircase, The",The Spiral Staircase,1946
+3850,16269,Whatever Happened to Aunt Alice?,Whatever Happened to Aunt Alice?,1969
+3851,13810,I'm the One That I Want,I'm the One That I Want,2000
+3852,7072,"Tao of Steve, The",The Tao of Steve,2000
+3857,10622,Bless the Child,Bless the Child,2000
+3858,3758,Cecil B. Demented,Cecil B. Demented,2000
+3859,6731,"Eyes of Tammy Faye, The",The Eyes of Tammy Faye,2000
+3861,15952,"Replacements, The",The Replacements,2000
+3862,2988,About Adam,About Adam,2000
+3863,17589,"Cell, The",The Cell,2000
+3865,8428,"Original Kings of Comedy, The",The Original Kings of Comedy,2000
+3866,13133,Sunset Strip,Sunset Strip,2000
+3870,16824,Our Town,Our Town,1940
+3871,2043,Shane,Shane,1953
+3872,13572,"Suddenly, Last Summer","Suddenly, Last Summer",1959
+3873,10345,Cat Ballou,Cat Ballou,1965
+3874,16457,"Couch in New York, A",A Couch in New York,1996
+3875,5109,"Devil Rides Out, The",The Devil Rides Out,1968
+3876,3709,Jerry & Tom,Jerry & Tom,1998
+3877,17643,Supergirl,Supergirl,1984
+3878,17408,X: The Unknown,X the Unknown,1956
+3879,5708,"Art of War, The",The Art of War,2000
+3880,13776,"Ballad of Ramblin' Jack, The",The Ballad of Ramblin' Jack,2000
+3882,12497,Bring It On,Bring It On,2000
+3883,13334,Catfish in Black Bean Sauce,Catfish in Black Bean Sauce,2000
+3884,14226,"Crew, The",The Crew,2000
+3885,12453,Love & Sex,Love & Sex,2000
+3886,13254,Steal This Movie!,Steal This Movie!,2000
+3888,14673,Skipped Parts,Skipped Parts,2000
+3891,10309,Turn It Up,Turn It Up,2000
+3893,17053,Nurse Betty,Nurse Betty,2000
+3894,2496,Solas,Solas,1999
+3895,7391,"Watcher, The",The Watcher,2000
+3896,12378,"Way of the Gun, The",The Way of the Gun,2000
+3897,5762,Almost Famous,Almost Famous,2000
+3898,15968,Bait,Bait,2000
+3899,15216,Circus,Circus,2000
+3900,10999,Crime and Punishment in Suburbia,Crime and Punishment in Suburbia,2000
+3901,12169,Duets,Duets,2000
+3903,12503,Urbania,Urbania,2000
+3905,7290,"Specials, The",The Specials,2000
+3906,499,Under Suspicion,Under Suspicion,2000
+3907,9751,"Prince of Central Park, The",The Prince of Central Park,1999
+3908,4677,Urban Legends: Final Cut,Urban Legends: Final Cut,2000
+3909,4352,Woman on Top,Woman on Top,2000
+3910,4752,Dancer in the Dark,Dancer in the Dark,2000
+3911,5614,Best in Show,Best in Show,2000
+3912,17027,Beautiful,Beautiful,2000
+3914,6502,"Broken Hearts Club, The",The Broken Hearts Club,2000
+3915,15477,Girlfight,Girlfight,2000
+3916,15844,Remember the Titans,Remember the Titans,2000
+3917,12661,Hellraiser,Hellraiser,1987
+3918,674,Hellbound: Hellraiser II,Hellbound: Hellraiser II,1988
+3924,7468,Pajama Party,Pajama Party,1964
+3925,14211,Stranger Than Paradise,Stranger than Paradise,1984
+3929,8708,"Bank Dick, The",The Bank Dick,1940
+3934,15330,Kronos,Kronos,1957
+3937,1116,Runaway,Runaway,1984
+3941,4673,Sorority House Massacre,Sorority House Massacre,1986
+3942,3319,Sorority House Massacre II,Sorority House Massacre II,1990
+3943,10846,Bamboozled,Bamboozled,2000
+3944,6260,Bootmen,Bootmen,2000
+3945,1776,Digimon: The Movie,Digimon: The Movie,2000
+3946,9431,Get Carter,Get Carter,2000
+3947,8432,Get Carter,Get Carter,1971
+3948,17088,Meet the Parents,Meet the Parents,2000
+3949,17508,Requiem for a Dream,Requiem for a Dream,2000
+3950,6418,Tigerland,Tigerland,2000
+3951,8758,Two Family House,Two Family House,2000
+3952,14852,"Contender, The",The Contender,2000

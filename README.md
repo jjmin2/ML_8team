@@ -4,7 +4,7 @@
 
 `data/processed/model_data.npz`, `load_data.py`, `requirements-preprocess.txt`, 이 README만 있으면 모델 구현을 시작할 수 있습니다. `movie_mapping.csv`와 `report.json`은 검토·재현 기록이므로 프로젝트에 보관합니다.
 
-확인 및 전처리 재실행용 MovieLens 원본 data/movies.dat와 data/ratings.dat는 저장소에 포함되어 있습니다. 모델 구현에는 전처리 담당자에게 별도로 받은 model_data.npz를 data/processed/ 폴더에 배치한 뒤 사용합니다. NPZ와 기타 전처리 결과는 Git에서 제외합니다.
+확인 및 전처리 재실행용 MovieLens 원본 data/movies.dat와 data/ratings.dat는 저장소에 포함되어 있습니다. 모델 구현에는 전처리 담당자에게 별도로 받은 model_data.npz를 data/processed/ 폴더에 배치한 뒤 사용합니다. NPZ 파일만 Git에서 제외하며, 영화 매핑표와 전처리 보고서를 포함한 나머지 데이터 파일은 저장소에 포함합니다.
 
 ```powershell
 python -m venv .venv

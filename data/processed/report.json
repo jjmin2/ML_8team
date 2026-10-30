@@ -1,0 +1,68 @@
+{
+  "config": {
+    "data": "C:\\Users\\parki\\Desktop\\ML_8team\\data",
+    "output": "C:\\Users\\parki\\Desktop\\ML_8team\\data\\processed",
+    "netflix_dir": null,
+    "netflix_handle": "netflix-inc/netflix-prize-data/versions/2",
+    "movielens_only": false,
+    "input_fraction": 0.8,
+    "min_ratings": 5
+  },
+  "sources": [
+    {
+      "path": "C:\\Users\\parki\\Desktop\\ML_8team\\data\\movies.dat",
+      "bytes": 171308,
+      "sha256": "0140fc2356357c1a851d0f52e893a1e4d3696df632c4141cea8d5bc3d621f0b9"
+    },
+    {
+      "path": "C:\\Users\\parki\\Desktop\\ML_8team\\data\\ratings.dat",
+      "bytes": 24594131,
+      "sha256": "506d64ca44484487c11dc2d9a28de5c54948213e6b96285e298afe28d6ea4e0f"
+    },
+    {
+      "path": "C:\\Users\\parki\\.cache\\kagglehub\\datasets\\netflix-inc\\netflix-prize-data\\versions\\2\\movie_titles.csv",
+      "bytes": 577547,
+      "sha256": "5c1b39b39ed1f5b58da872414a49b77e921fa8a069f15b3d36f78a0705e6a153"
+    },
+    {
+      "path": "C:\\Users\\parki\\.cache\\kagglehub\\datasets\\netflix-inc\\netflix-prize-data\\versions\\2\\combined_data_1.txt",
+      "bytes": 495032008,
+      "sha256": "a4f1ba5c26b6bb6522ab3a85125d8f41be1364f10125e11ccc832081abf916f5"
+    },
+    {
+      "path": "C:\\Users\\parki\\.cache\\kagglehub\\datasets\\netflix-inc\\netflix-prize-data\\versions\\2\\combined_data_2.txt",
+      "bytes": 555207357,
+      "sha256": "4dd82ff9fe56228d70f3ccfb9d922da1b4aa19f934800f555da08867e4913a34"
+    },
+    {
+      "path": "C:\\Users\\parki\\.cache\\kagglehub\\datasets\\netflix-inc\\netflix-prize-data\\versions\\2\\combined_data_3.txt",
+      "bytes": 465157779,
+      "sha256": "3a04e2902336f21da9792fae48cafec352fb3019461004c708be073e350e1618"
+    },
+    {
+      "path": "C:\\Users\\parki\\.cache\\kagglehub\\datasets\\netflix-inc\\netflix-prize-data\\versions\\2\\combined_data_4.txt",
+      "bytes": 552537802,
+      "sha256": "27f60e6edf9b2bb90cd98047bf07e7eef934757b338079b80d0cab01956b8cab"
+    }
+  ],
+  "movielens": {
+    "movies": 3883,
+    "ratings": 1000209,
+    "users": 6040
+  },
+  "netflix": {
+    "movies": 17770,
+    "matched_movies": 2464,
+    "movie_coverage": 0.13866066404051772,
+    "ratings_scanned": 100480507,
+    "ratings_matched": 40691549,
+    "rating_coverage": 0.4049695828067428,
+    "matched_users": 460450,
+    "evaluation_users": 304300,
+    "split_rows": {
+      "input": 31041328,
+      "target": 5811760
+    }
+  },
+  "status": "complete"
+}

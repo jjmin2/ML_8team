@@ -54,9 +54,9 @@ truth = d['target']         # Netflix 사용자 × 영화: 최종 평가 정답
 모델 생성 시 `min_rating`으로 변경할 수 있습니다.
 
 - `model = ContentBasedRecommender(d['genre_features'])`로 모델을 생성합니다.
-- `model.score(d['input'], user_index)`는 전체 영화 열에 대응하는 0~1 점수 벡터를
+- `model.score(d['input'], user_index)`는 전체 영화 열에 대응하는 0에서 1 사이의 점수 벡터를
   반환합니다. Hybrid에서 CF 점수와 결합할 수 있으며, 결합 후 공통 후보 제한과
-  이미 본 영화 제외를 적용해야 합니다. 점수는 선호 확률이나 1~5점 예측 평점이
+  이미 본 영화 제외를 적용해야 합니다. 점수는 선호 확률이나 1점에서 5점 사이의 예측 평점이
   아니므로 RMSE/MAE에 그대로 사용하지 않습니다.
 - `model.recommend(d['input'], user_index, candidate_indices=d['candidate_indices'], k=10)`는
   공통 후보에서 이미 본 영화를 제외한 `(영화 열 인덱스, 점수)` 목록을 반환합니다.

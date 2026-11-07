@@ -1,4 +1,9 @@
-"""Select the Hybrid content weight using only a chronological MovieLens split."""
+"""
+MovieLens 내부 시계열 분할(Chronological Split) 데이터만을 활용하여 
+하이브리드 추천 모델의 최적 콘텐츠 가중치(alpha)를 탐색하고 확정하는 튜닝 스크립트입니다.
+
+Data Leakage를 방지하기 위해 넷플릭스(Netflix) target 데이터는 일절 참조하지 않습니다.
+"""
 from __future__ import annotations
 
 import argparse

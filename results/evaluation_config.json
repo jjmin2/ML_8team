@@ -1,0 +1,18 @@
+{
+  "split": "Netflix chronological target (final evaluation)",
+  "alpha": 0.0,
+  "cf_neighbors": 100,
+  "shrinkage": 10.0,
+  "relevant_rating": 4.0,
+  "ks": [
+    5,
+    10
+  ],
+  "max_users": 0,
+  "candidate_rule": "candidate_indices minus each user's input history",
+  "models": [
+    "content",
+    "item_cf",
+    "hybrid"
+  ]
+}

@@ -1,4 +1,7 @@
-"""Create comparison charts from the CSV files written by evaluate_models.py."""
+"""
+evaluate_models.py 및 tune_hybrid.py에서 생성된 CSV 파일(model_metrics.csv, tuning_metrics.csv)을 읽어
+모델 성능 비교 차트(PNG 이미지 3종)를 자동 생성하는 모듈입니다.
+"""
 import argparse
 import csv
 from pathlib import Path
